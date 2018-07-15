@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Escuela EOS](README.md)
 * [Introducción](introduccion.md)
 * [El Ecosistema de EOS](el-ecosistema-de-eos.md)
 * [Historia](historia/README.md)
