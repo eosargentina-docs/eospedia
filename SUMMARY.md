@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Escuela EOS](README.md)
-* [Introducción](introduccion.md)
+* [Introducción](introduccion/README.md)
+  * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)
+  * [Diferencias con Ethereum](introduccion/diferencias-con-ethereum.md)
 * [El Ecosistema de EOS](el-ecosistema-de-eos.md)
 * [Historia](historia/README.md)
   * [Dan Larimer](historia/dan-larimer.md)
@@ -35,4 +37,6 @@
   * [Venture Capital](actores/venture-capital.md)
   * [Desarrolladores](actores/desarrolladores.md)
 * [Desarrollo](desarrollo.md)
+* [Untitled](untitled-1.md)
+* [www.eosargentina.io](https://www.eosargentina.io)
 

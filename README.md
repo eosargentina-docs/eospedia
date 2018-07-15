@@ -9,7 +9,7 @@ description: >-
 
 ## ¿Quiénes mantienen este repositorio?
 
-Este proyecto es una iniciativa del Productor de Bloques EOS Argentina con el objetivo de generar un espacio de contenidos en español para la comunidad.  Esperamos que distintas comunidades  globales de habla hispana se sumen a esta iniciativa para poder generar contenidos actualizados.
+Este proyecto es una iniciativa del Productor de Bloques EOS Argentina con el objetivo de generar un espacio de contenidos en español para la comunidad.  Esperamos que distintas comunidades  globales de habla hispana se sumen a esta iniciativa para poder generar contenidos confiables y actualizados.
 
 Los contenidos de este repositorio se encuentran bajo licencia de código abierto y puede ser usados y distribuidos libremente.
 
