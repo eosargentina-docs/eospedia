@@ -1,28 +1,28 @@
 # Beneficios \[TBT\]
 
-## Support Millions of Users
+## Soporte para Millones de Usuarios
 
-Competing with businesses such as eBay, Uber, AirBnB, and Facebook, require blockchain technology capable of handling tens of millions of active daily users. In certain cases, an application may not work unless a critical mass of users is reached and therefore a platform that can handle very large numbers of users is paramount.
+Competir con negocios como eBay, Uber, AirBnB, y Facebook, requiere una tecnología de cadena de bloques capaz de manejar diariamente decenas de millones de usuarios activos. En ciertos casos, una aplicación puede no tener utilidad a menos que alcance una masa critica de usuarios y por lo tanto, una plataforma que pueda manejar una gran cantidad de usuarios es requerida.
 
-Through horizontal scaling, EOSIO will enable the network capable of supporting millions of users on high performing applications.
+A través de la escala horizontal, EOSIO habilitará una red capaz de soportar millones de usuarios en aplicaciones de alta performance.
 
-## Free Usage
+## Uso Gratuito
 
-Traditionally, it is the business that pays for office space, computational power, and other costs required to run the business. The customer buys specific products from the business and the revenue from those product sales is used to cover the business costs of operation. Similarly, no website obligates its visitors to make micropayments for visiting its website to cover hosting costs.
+Tradicionalmente, los negocios son los que pagan por espacios de oficinas, poder de cómputo, y otros costos necesarios para operar un negocio. Los clientes compran productos específicos del negocio y la ganancia de esas ventas de productos es usada para cubrir los costos de operación. De manera similar, ningún sitio web obliga a sus visitantes a realizar micropagos al visitar el sitio para cubrir costos de mantenimiento.
 
-Application developers need the flexibility to offer users free services; users should not have to pay in order to use the platform or benefit from its services. A blockchain platform that is free to use for users will likely gain more widespread adoption. Developers and businesses can then create effective monetization strategies.
+Los desarrolladores de aplicaciones necesitan la flexibilidad para poder ofrecer a sus usuarios servicios gratuitos; los usuarios no deberían pagar para usar la plataforma o beneficiarse de sus servicios. Una plataforma de cadena de bloques de uso gratuito para sus usuarios es más propensa a lograr una mayor adopción. Desarrolladores y negocios pueden crear entonces estrategias de monetización efectivas.
 
-A launched blockchain that uses the EOSIO software does not require its users to pay the blockchain directly for its use and therefore does not constrain or prevent a business from determining its own monetization strategy for its products.
+Una cadena de bloques productiva que usa el software de EOSIO no requiere que sus usuarios paguen a la cadena de bloques de manera directa para usarla y por lo tanto, no limita o evita que un negocio determine su propia estrategia de monetización de sus productos.
 
-While it is true that the receiver can pay, EOSIO enables the sender to pay for bandwidth, computation, and storage. This empowers application developers to pick the method that is best for their application. In many cases sender-pays significantly reduces complexity for application developers who do not want to implement their own rationing system. Application developers can delegate bandwidth and computation to their users and then let the “sender pays” model enforce the usage. From the perspective of the end user it is free, but from the perspective of the blockchain it is sender-pays.
+Mientras que es verdad que el receptor puede pagar, EOSIO permite que el emisor pague por el ancho de banda, poder de cómputo y almacenamiento. Esto le da el poder a los desarrolladores de aplicaciones para seleccionar el método que mejor le siente a su aplicación. En muchos casos el pago por parte del emisor reduce muchísimo la complejidad para los desarrolladores que no quieren implementar su propio sistema de racionamiento. Los desarrolladores de aplicaciones pueden delegar ancho de banda y poder de cómputo a sus usuarios y luego dejar que el modelo de "pago por parte del emisor" imponga su uso. Desde la perspectiva del usuario final esto es gratuito, pero desde la perspectiva de la cadena de bloques el que paga es el emisor.
 
-## Easy Upgrades and Bug Recovery
+## Actualización Simple y Recuperación de Errores
 
-Businesses building blockchain-based applications need the flexibility to enhance their applications with new features. The platform must support software and smart contract upgrades.
+Los negocios que construyen aplicaciones basadas en cadena de bloques necesitan la flexibilidad para mejorar sus aplicaciones con nuevas funcionalidades. La plataforma debe soportar actualizaciones en el software y en los contratos inteligentes.
 
-All non-trivial software is subject to bugs, even with the most rigorous of formal verification. The platform must be robust enough to fix bugs when they inevitably occur.
+Cualquier software no trivial está sujeto a errores, inclusive con la más rigurosa verificación formal. La plataforma tiene que ser lo suficientemente robusta para corregir errores cuando estos inevitablemente ocurren.
 
-When all else fails and an "unstoppable application" acts in an unpredictable manner, a blockchain using the EOSIO software allows the block producers to replace the account's code without hard forking the entire blockchain. Similar to the process of freezing an account, this replacement of the code requires a 15/21 vote of elected block producers.
+Cuando todo lo demás falla y una "aplicación imparable" actúa de una forma inesperada, una cadena de bloques que usa el software de EOSIO permite que los productores de bloques reemplacen el código de la cuenta sin tener que realizar un hard fork de toda la cadena de bloques. De manera similar al caso de congelar una cuenta, este reemplazo de código requiere una votación de por lo menos 15 de los 21 votos de los productores de bloques elegidos.
 
 ## Low Latency
 
