@@ -1,4 +1,4 @@
-# Diferencias con Ethereum
+# Diferencias con Ethereum \[TBT\]
 
 ### Contenido
 
@@ -20,7 +20,9 @@ Capítulo 6: Economía de la red: cobro de tazas vs. poseer una participación
 
 Para aquellos que son muy nuevos para las ideas de criptografia e la tecnología de cadena de bloques, primero es importante entender exactamente que es una cadena de bloques. Esencialmente, una cadena de bloques es un sistema descentralizado, en el centro del cual hay un libro público. Um razão é, basicamente, uma maneira de explicar o estado atual do sistema \(por exemplo, quanto criptografia é realizada em cada conta\). Junto com o livro público, a tecnologia blockchain inclui um mecanismo de consenso que determina como o computador descentralizado \(ou seja, a rede de computadores que executam a cadeia de blocos\) atualiza o estado atual do livro público.
 
-## Introduction
+## Introducción
+
+No mucho tiempo después del lanzamiento de Bitcoin, individuos comprendieron y comenzaron a reconocer que la tecnología detrás 
 
   
 Not long after the launch of Bitcoin, savvy individuals began to recognize that the technology behind Bitcoin has vastly greater potential than simply as the basis for a new electronic currency. In fact, within just a few years of Bitcoin's development, dozens of new decentralized applications have been built upon the same type of public ledger blockchain technology behind Bitcoin. Just a few of these decentralized applications include encrypted messaging \(Bitmessage\), decentralized exchanges \(Bitshares\), trustless gambling/betting \(Peerplays\), cloud computing \(Golem\), and of course social media \(Steem/Steemit\). One challenge for innovators and app developers in this new blockchain economy is the difficulty of actually building a new blockchain application from scratch. On top of that, with traditional Proof-of-Work \(POW\) and Proof-of-Stake consensus mechanisms, the security of the network and application depends on a large amount of hashing power and/or a large distribution of network tokens. For small business owners and startups, these challenges make the barrier to entry impractically high. There is no way a small startup company can independently fund a widely distributed, powerful computer network to secure their application.
