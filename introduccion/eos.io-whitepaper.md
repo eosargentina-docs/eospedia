@@ -1,13 +1,13 @@
 # EOS.IO - Whitepaper
 
+{% hint style="info" %}
 Fuente y agradecimiento: [https://steemit.com/eos/@leonel-wainer/eos-io-white-paper-tecnico-en-espanol](https://steemit.com/eos/@leonel-wainer/eos-io-white-paper-tecnico-en-espanol)
-
-
+{% endhint %}
 
 EOS.IO Technical White Paper  
 BORRADOR: 5 de junio de 2017
 
-### Resumen:
+### Resumen
 
 El software EOS.IO presenta una nueva arquitectura blockchain diseñada para habilitar el escalado vertical y horizontal de aplicaciones descentralizadas. Esto se logra creando una construcción similar al sistema operativo sobre el cual se pueden construir aplicaciones. El software proporciona cuentas, autenticación, bases de datos, comunicación asíncrona y la programación de aplicaciones a través de cientos de núcleos de CPU o clusters. La tecnología resultante es una arquitectura blockchain que se escala a millones de transacciones por segundo, elimina las tarifas de transacciones a los usuarios, y permite el despliegue fácil y rápido de las aplicaciones descentralizadas.
 
@@ -16,7 +16,7 @@ Sin permiso, cualquiera puede usar, reproducir o distribuir cualquier material e
 
 AVISO LEGAL: Este borrador EOS.IO Technical White paper es solo para fines informativos. block.one no garantiza la exactitud de las concluciones alcanzadas en este documento, y el documento se proporciona "tal cual" sin representaciones y garantías, expresas o implícitas, fuere lo que fuere, incluyendo, pero no limitado a: \(i\) garantías de comerciabilidad, aptitud para un fin específico, título o sin violación de derechos; \(ii\) que el contenido de este documento está libre de error o adecuado para cualquier fin; y \(iii\) dicho contenido no infringirá los derechos de terceros. Todas las garantías están expresamente excluidas. block.one y sus afiliados expresamente renuncian a toda responsabilidad por daños de cualquier tipo derivados del uso, referencia, o dependencia de cualquier información contenida en este documento, incluso si es advertido de la posibilidad de tales daños. En ningún caso block.one o sus afiliados serán responsables frente a cualquier persona o entidad por cualquier daño directo, indirecto, especial o consecuente por el uso de, referencia, o dependencia de este documento o cualquiera de los contenidos en este documento.
 
-## GLOSARIO
+### Glosario
 
 * Historial
 * Requisitos Para las Aplicaciones Blockchain
@@ -442,8 +442,6 @@ Cuando se usan merkle proofs de blockchains externos, hay una diferencia signifi
 ### Conclusión
 
 El software EOS.IO está diseñado por experiencia con conceptos comprobados y por las mejores prácticas, y representa los avances fundamentales en la tecnología blockchain. El software es parte de un proyecto holístico para una sociedad de blockchain globalmente expansible en la que las aplicaciones descentralizadas pueden ser fácilmente implementadas y gobernadas.
-
-PD: Todas las correcciones a la traduccion son bienvenidas, envia un PR: [https://github.com/leonel-wainer/eos.io-spanish-technical-white-paper/](https://github.com/leonel-wainer/eos.io-spanish-technical-white-paper/)
 
 Fuente original: [https://steemit.com/eos/@eosio/eos-io-technical-white-paper](https://steemit.com/eos/@eosio/eos-io-technical-white-paper)
 
