@@ -1,4 +1,4 @@
-# Introducción
+# Introduction
 
 ## Qué es EOS.IO?
 

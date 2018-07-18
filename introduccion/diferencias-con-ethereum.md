@@ -1,4 +1,4 @@
-# Diferencias con Ethereum \[TBT\]
+# Differences with Ethereum
 
 ### Contenido
 

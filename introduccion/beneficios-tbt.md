@@ -1,4 +1,4 @@
-# Beneficios \[TBT\]
+# Benefits
 
 ## Soporte para Millones de Usuarios
 

@@ -1,4 +1,4 @@
-# Network Overview \[TBT\]
+# Network Overview
 
 ## Description
 

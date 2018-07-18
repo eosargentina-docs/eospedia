@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Escuela EOS](README.md)
-* [Introducción](introduccion/README.md)
-  * [Que es EOS.IO? \[TBC\]](introduccion/untitled.md)
-  * [Beneficios \[TBT\]](introduccion/beneficios-tbt.md)
-  * [Network Overview \[TBT\]](introduccion/network-overview-tbt.md)
+* [Introduction](introduccion/README.md)
+  * [What is EOS.IO?](introduccion/untitled.md)
+  * [Benefits](introduccion/beneficios-tbt.md)
+  * [Network Overview](introduccion/network-overview-tbt.md)
   * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)
-  * [Diferencias con Ethereum \[TBT\]](introduccion/diferencias-con-ethereum.md)
+  * [Differences with Ethereum](introduccion/diferencias-con-ethereum.md)
 * [El Ecosistema de EOS \[TBC\]](el-ecosistema-de-eos.md)
 * [Historia](historia/README.md)
   * [Dan Larimer](historia/dan-larimer/README.md)

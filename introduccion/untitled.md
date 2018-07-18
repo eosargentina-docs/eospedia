@@ -1,2 +1,2 @@
-# Que es EOS.IO? \[TBC\]
+# What is EOS.IO?
 
