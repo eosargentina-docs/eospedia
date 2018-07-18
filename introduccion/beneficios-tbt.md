@@ -24,9 +24,9 @@ Cualquier software no trivial está sujeto a errores, inclusive con la más rigu
 
 Cuando todo lo demás falla y una "aplicación imparable" actúa de una forma inesperada, una cadena de bloques que usa el software de EOSIO permite que los productores de bloques reemplacen el código de la cuenta sin tener que realizar un hard fork de toda la cadena de bloques. De manera similar al caso de congelar una cuenta, este reemplazo de código requiere una votación de por lo menos 15 de los 21 votos de los productores de bloques elegidos.
 
-## Low Latency
+## Baja Latencia
 
-A good user experience demands reliable feedback with a delay of no more than a few seconds. Longer delays frustrate users and make applications built on a blockchain less competitive with existing non-blockchain alternatives. The platform should support low latency of transactions.
+Una buena experiencia de usuario requiere una respuesta confiable con una demora de no más que unos segundos.  A good user experience demands reliable feedback with a delay of no more than a few seconds. Longer delays frustrate users and make applications built on a blockchain less competitive with existing non-blockchain alternatives. The platform should support low latency of transactions.
 
 With sub-second blocks production, EOSIO minimizes the latency of the transactions and drastically improves the users' experience of the applications built on top of it.
 
