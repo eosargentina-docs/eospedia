@@ -2,7 +2,7 @@
 
 * [Escuela EOS](README.md)
 * [Introducción](introduccion/README.md)
-  * [Que es EOS.IO? \[TBC\]](introduccion/untitled.md)
+  * [Que es EOS.IO?](introduccion/untitled.md)
   * [Beneficios \[TBT\]](introduccion/beneficios-tbt.md)
   * [Network Overview \[TBT\]](introduccion/network-overview-tbt.md)
   * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)
