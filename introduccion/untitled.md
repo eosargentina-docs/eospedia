@@ -176,7 +176,7 @@ In the face of The DAO and other experiences, I suggest that the rule of one con
 
 As of the time of writing, the set of languages available to the contract developer is a work in progress. Whether WASM or Wren or another, we will still need to structure the language for performance and usability. Each named message handler will need to identify sections for each of static, readonly and read-write code, each having different potentials for optimisation. To eliminate re-entrant issues, outgoing messages will be stacked until completion, or dropped on failure. We intend to add a SQL-like table structure to significantly ease adoption by those who are familiar with databases. Crypto will be external and mostly invisible. 
 
-![Fig. 7. Community can appoint governors to manage responsibilities](../.gitbook/assets/image%20%2825%29.png)
+![Fig. 7. Community can appoint governors to manage responsibilities](../.gitbook/assets/image%20%2826%29.png)
 
 As with the entire space for DLT, the competition continues internally. Wren is small and tight. WASM is only just out of standardisation. WASM’s early tools target C and C++ which are popular but are more costly to write code in, in comparison to high level late-generation languages such as Wren. These challenges should not be insurmountable in the longer run as the WASM project is intended to work with most languages, and the bulk of the code in any DApp is outside the handlers, in the websites. The ability to accept many popular languages is enticing, an advantage available to Corda’s JVM but not easily reachable by Bitcoin or Ethereum without a holistic approach to the developer cycle. 
 

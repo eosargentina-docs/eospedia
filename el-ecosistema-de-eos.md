@@ -1,6 +1,8 @@
-# El Ecosistema de EOS \[TBC\]
+# EOS Ecosystem
 
-![Interacci&#xF3;n de los diferentes Actores y Componentes de EOS.IO](.gitbook/assets/screen-shot-2018-07-14-at-03.07.52%20%282%29.png)
+![Interaction between EOS.IO Actors and Components](.gitbook/assets/image%20%2823%29.png)
+
+
 
 {% tabs %}
 {% tab title="First Tab" %}
