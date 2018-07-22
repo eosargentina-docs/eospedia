@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Escuela EOS](README.md)
+* [EOSPedia](README.md)
 * [Introduction](introduccion/README.md)
   * [What is EOS.IO?](introduccion/untitled.md)
   * [Benefits](introduccion/beneficios-tbt.md)

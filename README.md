@@ -1,11 +1,11 @@
 ---
 description: >-
-  El objetivo de este sitio es proporcionar documentación en español sobre el
-  software y ecosistema de la cadena de bloques de EOS.IO para la comunidad de
-  habla hispana
+  The goal of this site is to provide  objetivo de este sitio es proporcionar
+  documentación en español sobre el software y ecosistema de la cadena de
+  bloques de EOS.IO para la comunidad de habla hispana
 ---
 
-# Escuela EOS
+# EOSPedia
 
 ## ¿Quiénes mantienen este repositorio?
 
