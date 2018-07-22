@@ -2,7 +2,7 @@
 
 * [Bievenidos a EOSPEDIA.IO](README.md)
 * [Introducción](introduccion/README.md)
-  * [¿Qué es EOS.IO?](introduccion/untitled.md)
+  * [Introducción a EOS](introduccion/untitled.md)
   * [Beneficios](introduccion/beneficios-tbt.md)
   * [Network Overview \[TBT\]](introduccion/network-overview-tbt.md)
   * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)

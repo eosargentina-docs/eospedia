@@ -1,9 +1,11 @@
-# ¿Qué es EOS.IO?
+# Introducción a EOS
+
+## "Una Introducción a EOS" por Ian Grigg
 
 {% hint style="info" %}
-Fuente y agradecimiento: [http://iang.org/papers/EOS\_Una\_Introduccio%CC%81n-IanGrigg-Trad\_MAM+AIH-20180717.pdf](http://iang.org/papers/EOS_Una_Introduccio%CC%81n-IanGrigg-Trad_MAM+AIH-20180717.pdf)
-
-Texto original de Ian Grigg, traducido al español por María A. Maegli y Ana I. Herrerías con el apoyo de eosMeso – julio 2018
+Fuente y agradecimiento: [http://iang.org/papers/EOS\_Una\_Introduccio%CC%81n-IanGrigg-Trad\_MAM+AIH-20180717.pdf](http://iang.org/papers/EOS_Una_Introduccio%CC%81n-IanGrigg-Trad_MAM+AIH-20180717.pdf)  
+  
+Texto original de Ian Grigg, traducido al español por **María A. Maegli y Ana I. Herrerías** con el apoyo de **eosMeso** – julio 2018
 {% endhint %}
 
 ### Resumen
