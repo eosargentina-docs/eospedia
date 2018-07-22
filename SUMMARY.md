@@ -7,7 +7,7 @@
   * [Network Overview \[TBT\]](introduccion/network-overview-tbt.md)
   * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)
   * [Diferencias con Ethereum \[TBT\]](introduccion/diferencias-con-ethereum.md)
-* [El Ecosistema de EOS \[TBC\]](el-ecosistema-de-eos.md)
+* [El Ecosistema de EOS](el-ecosistema-de-eos.md)
 * [Historia](historia/README.md)
   * [Dan Larimer](historia/dan-larimer/README.md)
     * [Filosofía](historia/dan-larimer/filosofia/README.md)
