@@ -5,7 +5,7 @@
   * [What is EOS.IO?](introduccion/untitled.md)
   * [Benefits](introduccion/beneficios-tbt.md)
   * [Network Overview](introduccion/network-overview-tbt.md)
-  * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)
+  * [EOS.IO - Whitepaper v2](introduccion/eos.io-whitepaper.md)
   * [Differences with Ethereum](introduccion/diferencias-con-ethereum.md)
 * [El Ecosistema de EOS \[TBC\]](el-ecosistema-de-eos.md)
 * [Historia](historia/README.md)
