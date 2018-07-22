@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Escuela EOS](README.md)
+* [EOSPedia](README.md)
 * [Introducción](introduccion/README.md)
-  * [Que es EOS.IO?](introduccion/untitled.md)
+  * [¿Qué es EOS.IO?](introduccion/untitled.md)
   * [Beneficios \[TBT\]](introduccion/beneficios-tbt.md)
   * [Network Overview \[TBT\]](introduccion/network-overview-tbt.md)
   * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)

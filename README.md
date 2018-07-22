@@ -5,7 +5,7 @@ description: >-
   habla hispana
 ---
 
-# Escuela EOS
+# EOSPedia
 
 ## ¿Quiénes mantienen este repositorio?
 
