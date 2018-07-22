@@ -1,4 +1,6 @@
-# What is EOS.IO?
+# Introduction to EOS
+
+## "EOS - An Introduction" by Ian Grigg
 
 {% hint style="info" %}
 Source and acknoledgement: [https://eos.io/documents/EOS\_An\_Introduction.pdf](https://eos.io/documents/EOS_An_Introduction.pdf)
@@ -8,7 +10,7 @@ Source and acknoledgement: [https://eos.io/documents/EOS\_An\_Introduction.pdf](
 
 **Current technologies for blockchain fall short of providing what developers and end-users need in order to contract together and to build large scale businesses. We propose EOS, a performance-based and self-governing blockchain that provides an operating system for building large-scale consumerfacing distributed applications. This paper outlines the context, vision and software architecture underlying EOS, which we are building to serve a broad and diverse group of users with smart business. Keywords—EOS, blockchain, smart contract.**
 
-### I. INTRODUCTION 
+### I. Introduction 
 
 The notions of digital cash and smart contracting have been known for a long time, yet only in recent times have strides been taken with respect to implementation. 
 
@@ -22,7 +24,7 @@ Finally a quick Comparison with known systems and Concluding remarks. For more t
 
 {% page-ref page="eos.io-whitepaper.md" %}
 
-### II. CONTEXT 
+### II. Context 
 
 **The Market.** The market is competitive for all products and DLTs or blockchains are no exception. What are the market offerings? Bitcoin might be seen as the chain of security, yet a strong chain is only as valuable as the business it is attached to. Perhaps recognising this, Ethereum touted the worldwide unstoppable Turing computer, a goal that might appeal to computer scientists but has seemed elusive to other disciplines. R3 built Corda to serve the needs of the financial institution, which is a large market but also an expensive and exclusive one. 
 
@@ -62,7 +64,7 @@ In contrast, in the permissioned network or walled garden approach, only those p
 
 Neither of these world states are user friendly - users lose too much money through caveat emptor, and systems that start from ‘permission’ become systems that discriminate, either at the competitive level or the societal level. Users are routinely skeptical of either. 
 
-### III. VISION 
+### III. Vision 
 
 **End-state Goals.** What is it that our user needs? In the abstract, she wants to:
 
@@ -96,7 +98,7 @@ In more practical terms, while there is much of value on the Internet, we focus 
 * Usability from the user to contract writer to developer to entrepreneur
 * Governance for business and chain maintenance The following section explores in more depth.
 
-### IV. THE ARCHITECTURE 
+### IV. The Architecture 
 
 **The Philosophy.** In large part the practical approach of the software underlying EOS is to extend the large-scale highperformance blockchain experience in Bitshares and Steem to support end-user business. Most of the elements have been proven to a lesser or greater extent, this architecture re-assembles them for a new purpose - to build distributed applications.
 
@@ -192,7 +194,7 @@ To make these institutions work, users have to agree to the Constitution, which 
 
 And thus we have preserved open entry even as the Community governs itself internally. Even as a user transacts, all transactions from the first entry to the latest refer to the Constitution by hash, as a Ricardian Contract \(Grigg 2004\). As an explicit governance mechanism, the constitution creates more of a fenced field than a walled garden, and the gatekeeper is automated as a transaction or signpost at all points. 
 
-### V. COMPARISONS 
+### V. Comparisons 
 
 **Bitcoin.** As the platform that launched the first and most successful cryptocurrency, Bitcoin is a baseline. Yet, as the ‘first’ its flaws shine as bright as its success: The UTXO verification model means that complex smart business has to be mediated through external code. The state is nicely locked on chain, but the hard work of negotiation is done by the applications. It has no good framework for assets, especially as each transaction includes BTC, and is thus an affront to Gresham’s apocryphal warning against commingling of assets, good money drives out bad. Its lack of a thoughtful governance layer results that upgrades are very difficult, and the community is at war with itself. For example, the artificial limit of 3 TPS that kills its scalability is because of the absence of governance. 
 
@@ -200,7 +202,7 @@ And thus we have preserved open entry even as the Community governs itself inter
 
 **Corda.** The primary distinguishing factor of Corda is that it is not a blockchain but a framework for party to party workflow. Instead of posting contracts and actions to a blockchain, parties exchange messages and come to consensus via notaries. It achieves confidentiality for parties, high performance unconstrained by chain coordination, and the ability for parties to control the contracts as they succeed and fail. Yet workflow works best with small numbers of parties, not large, and hence it is weaker on issuance of assets, especially cash and cash-denominated trading. Another weakness is that Corda’s walled garden approach for regulatory business stops it being an attractive mass market for small players. 
 
-### VI. CONCLUSION 
+### VI. Conclusion 
 
 **User experience.** The direct users of a blockchain such as EOS are the entrepreneurs and developers who write contracts to implement distributed applications or DApps. Their users are the routine customers in retail, finance, logistics, media. Those latter customers do not need to know what a blockchain is. Hence the goal is to give the developers a platform that allows extensive business logic to be built, but the mechanisms of communication are hidden. 
 
