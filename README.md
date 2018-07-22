@@ -1,6 +1,6 @@
-# EOSPedia
+# Bievenidos a EOSPEDIA.IO
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/eospedia.io-1%20%281%29.png)
 
 ## ¿Quiénes mantienen este repositorio?
 

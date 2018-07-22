@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EOSPedia](README.md)
+* [Bievenidos a EOSPEDIA.IO](README.md)
 * [Introducción](introduccion/README.md)
   * [¿Qué es EOS.IO?](introduccion/untitled.md)
   * [Beneficios](introduccion/beneficios-tbt.md)
