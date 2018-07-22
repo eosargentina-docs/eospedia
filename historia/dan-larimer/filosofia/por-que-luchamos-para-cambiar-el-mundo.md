@@ -1,7 +1,3 @@
----
-description: Traducción del artículo de Dan Larimer
----
-
 # ¿Por qué luchamos para cambiar el mundo?
 
 {% hint style="info" %}

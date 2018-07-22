@@ -1,11 +1,6 @@
----
-description: >-
-  The goal of this site is to provide a repository of documentes proporcionar
-  documentación en español sobre el softwaresy ecosistema de la cadena de
-  bloques de EOS.IO para la comunidad de habla hispana
----
-
 # EOSPedia
+
+![](.gitbook/assets/image%20%2826%29.png)
 
 ## Who maitains this repository?
 
@@ -13,7 +8,7 @@ This project is an initiative of EOS Argentina Block Producer with the goal to g
 
 The contents of this repository are under the open source license, they can be used or distributed freely.
 
-![](.gitbook/assets/navigation-logo.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 ## How may I contribute?
 
@@ -22,7 +17,8 @@ All the documentation created at this page can be found at the **github** reposi
 {% code-tabs %}
 {% code-tabs-item title="Repositorio de Github" %}
 ```text
-https://github.com/eosargentina-docs/es
+repository: https://github.com/eosargentina-docs/eospedia
+branch: en
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}

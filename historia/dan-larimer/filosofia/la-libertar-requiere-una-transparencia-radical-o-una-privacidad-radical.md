@@ -1,7 +1,3 @@
----
-description: Traducción del artículo de Dan Larimer
----
-
 # ¿La Libertar Requiere una Transparencia Radical o una Privacidad Radical?
 
 {% hint style="info" %}
