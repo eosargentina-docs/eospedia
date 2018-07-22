@@ -1,10 +1,10 @@
 # Introduction
 
-## Qué es EOS.IO?
+## What is EOS.IO?
 
-EOS.IO es una criptomoneda y una cadena de bloques que proporciona una plataforma de contratos inteligentes para la puesta en producción de aplicaciones descentralizadas y comunidades autónomas descentralizadas.  
+The EOS.IO software introduces a new blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. This is achieved by creating an operating system-like construct upon which applications can be built. 
 
-El objetivo de EOS.IO es el de proporcionar una plataforma para aplicaciones de gran escala, eliminando gastos por transacción y alcanzar millones de transacciones por segundo.
+The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across many CPU cores or clusters. The resulting technology is a blockchain architecture that may ultimately scale to millions of transactions per second, eliminates user fees, and allows for quick and easy deployment and maintenance of decentralized applications, in the context of a governed blockchain
 
 
 
