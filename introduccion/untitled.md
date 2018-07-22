@@ -20,6 +20,8 @@ We are tantalisingly close but no prize has yet been awarded - by the end-users.
 
 Finally a quick Comparison with known systems and Concluding remarks. For more technical details on the EOS.IO software, readers are referred to “EOS.IO Technical White Paper” \(Larimer 2017\). 
 
+{% page-ref page="eos.io-whitepaper.md" %}
+
 ### II. CONTEXT 
 
 **The Market.** The market is competitive for all products and DLTs or blockchains are no exception. What are the market offerings? Bitcoin might be seen as the chain of security, yet a strong chain is only as valuable as the business it is attached to. Perhaps recognising this, Ethereum touted the worldwide unstoppable Turing computer, a goal that might appeal to computer scientists but has seemed elusive to other disciplines. R3 built Corda to serve the needs of the financial institution, which is a large market but also an expensive and exclusive one. 
