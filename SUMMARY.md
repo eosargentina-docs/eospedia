@@ -41,6 +41,4 @@
   * [Venture Capital](actores/venture-capital.md)
   * [Desarrolladores](actores/desarrolladores.md)
 * [Desarrollo](desarrollo.md)
-* [Untitled](untitled-1.md)
-* [www.eosargentina.io](https://www.eosargentina.io)
 
