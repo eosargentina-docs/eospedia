@@ -1,108 +1,108 @@
-# ¿La Libertar Requiere una Transparencia Radical o una Privacidad Radical?
+# Does Freedom Require Radical Transparency or Radical Privacy?
 
 {% hint style="info" %}
-Fuente y agradecimiento: [https://steemit.com/eos/@dr-waldo/eospa-002-la-libertar-requiere-una-transparencia-radical-o-una-privacidad-radical-traduccion-al-espanol-del-articulo-de-dan](https://steemit.com/eos/@dr-waldo/eospa-002-la-libertar-requiere-una-transparencia-radical-o-una-privacidad-radical-traduccion-al-espanol-del-articulo-de-dan)
+Source and acknowledgement: [https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
 {% endhint %}
 
 ![](https://steemitimages.com/DQmbQhGLMePRfagWXf8SSLtRX9K6Cp2A5aMbMHWBzS4cENV/image.png)
 
-Como sociedad solemos tener un doble estándar en temas de privacidad. Queremos saber todo sobre todos al mismo tiempo que queremos que nadie sepa nada sobre nosotros. Queremos el derecho a demandar que el resto nos olvide, pero queremos al mismo tiempo recordar todo lo que podamos del resto de la gente.
+As a society we seem to have double standards when it comes to privacy. We would like to know everything about everyone else while simultaneously ensuring nobody knows anything about us. We want the right to demand others forget us, but we want to remember everything we can about everyone else.
 
-### El Conocimiento es Poder
+### Knowledge is Power
 
-El conocimiento es poder, especialmente contra alguien que no tiene el mismo acceso al conocimiento. Por lo tanto, en nuestra búsqueda personal de poder deseamos que al mismo tiempo que incrementamos nuestra propia privacidad, podamos recabar la mayor cantidad de información posible sobre los otros. Esta hipocresía auto-infligida está reflejada en nuestros gobiernos que buscan maximizar el conocimiento que tienen de toda la población mientras mantienen a todos en la oscuridad.
+Knowledge is power, especially against someone without equal access to knowledge. Therefore, in our natural pursuit of personal power we desire to simultaneously increase our own privacy while gathering as much information about others as we can. This self-inflicted hypocrisy is reflected in our governments which seek to maximize their knowledge about everyone while keeping everyone else in the dark.
 
-Al final, es nuestro deseo de privacidad y el derecho a que nos olviden lo que hace que nos enfrentemos entre nosotros. Nos enseñan a desconfiar de nuestro vecino pero a confiar en una burocracia hambrienta de poder. Pedimos a los gobiernos que usen su conocimiento universal para encontrar criminales, pero el poder que les damos se vuelve en contra nuestra cuando transforman a todos en criminales.
+Ultimately it is our desire for privacy and the right to be forgotten that turn us against one another. We are taught to distrust our neighbor but to trust a power hungry bureaucracy. We demand governments use their universal knowledge to track down criminals, but the power we give them is turned against us when they make everyone a criminal.
 
-Los gobiernos usan su conocimiento de cada pequeño detalle de nuestras vidas para rastrearnos, cobrarnos impuestos, e intimidarnos con el cumplimiento de leyes arbitrarias y abusivas. Es natural que a individuos pacíficos, amantes de la libertad, les encantaría tener una privacidad completa de su gobierno. Nosotros creemos que esta privacidad limitaría el poder del gobierno para cobrarnos impuestos, para regular, y de alguna manera oprimir a personas de las que esperamos que no sepan nada. Mientras tanto, los gobiernos del mundo están haciendo todo lo que pueden para que nuestra "privacidad del gobierno" sea ilegal. Al mismo tiempo que buscan que la privacidad entre nosotros sea mandatoria.
+Governments use their knowledge of every detail of our lives to track us, tax us, and intimidate us into complying with their arbitrary and abusive laws. It is only natural that peaceful freedom loving individuals would like to have complete privacy from the government. We believe this privacy would limit the government’s power to tax, regulate, and otherwise oppress people whom we hope it will know nothing about. Meanwhile, governments of the world are doing everything they can to make privacy-from-government illegal. Simultaneously they are working to make privacy from each other mandatory.
 
-Esta es una estrategia transparente de dividir y conquistar a favor de los gobiernos. Cuando no sabemos nada de nuestros compatriotas excepto lo que nos dice el gobierno y el gobierno sabe todo sobre todos, ese es el momento en el que realmente somos esclavos. El gobierno usa la privacidad y el secreto como los fundamentos de sus campañas de desinformación y propaganda. Es solo a través del secreto que el gobierno puede manipular la forma en la que las masas ven la realidad y de esa manera controlar a toda la sociedad.
+This is a transparent divide and conquer strategy on behalf of governments. When we know nothing about our fellow man except that which the government tells us and the government knows everything about everyone, then we are truly enslaved. The government uses privacy and secrecy as the foundation of its misinformation and propaganda campaigns. It is only through secrecy that the government can manipulate how the masses see the truth and therefore control all of society.
 
-En un sentido muy real, la privacidad es el enemigo de la verdad. Los secretos y las mentiras que contamos para mantenerlos son la trama y el origen del sufrimiento en casi todas las películas. Es la verdad la que nos liberará y los secretos los que nos esclavizan. Si queremos descentralizar el poder, entonces debemos descentralizar los secretos esparciendo la verdad a través de la transparencia radical.
+In a very real sense, privacy is the enemy of truth. Secrets and the lies we tell to keep them, are the plot and root of suffering in almost every movie. It is the truth that will set us free and the secrets that enslave us. If we want to decentralize power, then we must decentralize secrets by spreading truth through radical transparency.
 
-### Dos Maneras de Luchar por la Libertad
+### Two ways to Fight for Freedom
 
-De aquí en adelante aquellos amantes de la libertad tienen dos opciones para luchar en contra de la tiranía auto-infligida:
+Going forward, freedom loving people have two options in the fight against this self-inflicted tyranny:
 
-1. Resistir - superar por oposición
-2. Aikido - usar la inercia del adversario para alcanzar nuestro objetivo
+1. **Resist** - overcome through opposition
+2. **Aikido** - use adversary's momentum to achieve our objective
 
-Nos resistimos tratando de crear soluciones de privacidad más fuertes para nosotros mismos mientras obligamos a los otros a tener mayor transparencia. Este método de lucha solo funciona a favor de la parte más fuerte. Es la estrategia que el gobierno usa en contra nuestra.
+We resist by attempting to build stronger privacy solutions for ourselves and compel greater transparency on others. This method of fighting only works in favor of the stronger party. It is the strategy the government is using against us.
 
-Aikido le da el poder a la parte mas débil al utilizar la energía del atacante en contra de si mismos. En vez de bloquear un puñetazo, se toma el brazo del oponente y tiramos de él hacia nosotros, sacando a nuestro oponente de balance al mismo tiempo que no nos lastimamos. Ejecutado correctamente, tu oponente termina en el piso paralizado a través de llaves y puntos de presión sin requerir de una fuerza significativa de tu parte.
+[Aikido](https://en.wikipedia.org/wiki/Aikido) empowers the weaker party by turning the attacker's energy against themselves. Rather than block a punch, you grab their arm and pull it toward you, throwing your opponent off balance while taking no damage yourself. Properly executed your stronger opponent ends up on the ground pinned using joint locks and pressure points all without requiring any significant strength on your part.
 
-En una guerra de información, el Aikido es transparencia completa. Al demandar que los gobiernos sean transparentes cuando los gobiernos ya saben casi todo, en última instancia estamos demandando que todo sea transparente. Pedirle a otros que no nos espíen voluntariamente es pedirles que actúen en contra de su propio interés.
+**In an information war, the Aikido move is complete transparency.**Demanding governments be transparent when governments already know almost everything we are ultimately demanding everything be transparent. Asking others to voluntarily not spy on us is asking them to act against their own self interest.
 
-Si los otros ya saben todo, entonces nuestra transparencia no les dará ningún beneficio adicional. Lo que la transparencia hará, es incrementar el conocimiento de todos los demás y de esa manera reducir la asimetría de la información, al mismo tiempo que permite a las comunidades ser su propia policía sin violencia.
+If others already know everything, then our transparency will give them no additional benefit. What transparency will do is increase the knowledge of everyone else and therefore reduce information asymmetry while enabling communities to self police without violence.
 
-Podemos rogarle a otros que no recolecten nuestros datos, o que se olviden de nuestro pasado, pero al fin de cuentas eso es algo que no se puede parar sin requerir una supervisión \(que requiere que otros recolecten nuestros datos\).
+We can beg others to not collect data on us, or to forget our past, but ultimately that is something that cannot be stopped without requiring policing \(which requires others to collect data on us\).
 
-### La Ineficiencia del Secreto
+### The Inefficiency of Secrecy
 
-El secreto es tan difícil que los expertos no pueden ni siquiera mantener un par de bytes de información secretos cuando cientos de millones de dólares de una criptomoneda están en juego. Se podría decir que el secreto es un estado de alta energía, que requiere un flujo de energía constante para mantenerse y es por lo tanto inestable, mientras que la transparencia es un estado de baja energía que no requiere un flujo de energía para mantenerse y es por lo tanto estable. Una sociedad construida sobre la transparencia será mucho más fuerte y barata de sostener que una construida sobre secretos.
+Secrecy is so difficult that experts can't even keep a couple bytes of information secret when hundreds of millions of dollars of cryptocurrency are on the line. You could say that secrecy is a high-energy state that requires constant energy input into defense and is therefore unstable, meanwhile transparency is a low-energy state that requires no energy input and therefore very stable. A society built on transparency will be much stronger and cheaper to sustain than one built on secrecy.
 
-### La Ilusión de la Privacidad
+### The Illusion of Privacy
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/DQmZkknSRa4jNcnMoLYyXcdwTNs52Xmt46MqpXtHxuRFLJK/image.png)  
-La idea de que nuestra vida entera sea abierta y expuesta es tan terrible que no podemos aceptar la realidad. Creemos que las blockchains \(cadenas de bloques\) mantienen nuestra situación financiera privada, cuando en realidad un análisis trivial de la información revela todo. Creemos que nadie sabe quienes somos cuando navegamos en Internet, pero cada uno de nosotros tiene una huella dactilar digital basada en nuestros hábitos de navegación y elecciones de tecnología que revela más a las compañías que lo que nosotros sabemos de nosotros mismos. Eventualmente el machine learning \(aprendizaje automático\) permitirá a los gobiernos navegar las montañas de información que han recabado durante los últimos 20 años y revelar cosas que alguna vez pensamos que eran secretas.
+The idea of our entire lives being open and exposed is so terrifying that we cannot accept the truth. We believe blockchains keep our financial situation private, when in reality trivial data analysis reveals all. We believe no one knows who we are while browsing the internet, but each of us has a digital fingerprint based upon our browsing habits and choices of technology that transparently reveals more to faceless companies than we know about ourselves. Eventually machine learning will empower governments to sift through the mountains of information they have been gathering over the past 20 years and reveal things that we once thought were secret.
 
-Es reconfortante pretender que nos mimetizamos con la multitud y que es demasiada información para que alguien pueda encontrarle sentido. La disonancia cognitiva de aquellos de nosotros que conocemos mejor el tema no nos es de utilidad. La ilusión de la privacidad es quizás tan peligrosa como confundir el cubrirse y el ocultarse durante un tiroteo.
+It is comforting to pretend that we are blending in with the crowd and hope that there is just too much information to make sense of it all. The cognitive dissonance of those of us who should know better does not serve us. The illusion of privacy is perhaps just as dangerous as confusing cover and concealment in a gunfight.
 
-La privacidad y los secretos son como el genio al que no podemos poner nunca más dentro de la botella. Es común que sea solo una cuestión de tiempo hasta que el genio se escape y todo lo que pensábamos que era privado y seguro es ahora público.
+Privacy and secrets are like a magic genie that we can never put back in the bottle. More often than not it is just a matter of time until the genie escapes and everything that we once thought was private and secure is now public.
 
-### Asume que todo es Público
+### Assume everything is Public
 
-El curso de acción más seguro es asumir que todo es público antes de actuar para minimizar el daño que tus acciones pueden causarte. Actuar bajo presunción de que ese acto es secreto es siempre un riesgo, una apuesta de que el beneficio de tu secreto es mayor que el costo de ser expuesto descontando ese riesgo.
+The safest course of action is to assume that everything is public before you act so that you can minimize the damage that your actions may cause you. Acting under presumption of secrecy is always a gamble, a bet that the reward for your secrecy is greater than the risk-discounted cost of being exposed.
 
-A medida que la tecnología avanza la probabilidad de ser expuesto y el costo de la exposición van creciendo, por lo tanto el costo de mantener secretos está creciendo exponencialmente. Para muchas cosas, el costo de mantenerlos en secreto se está haciendo mucho más caro que simplemente hacerlos públicos desde el comienzo. La información de identificación personal, que los gobiernos requieren guardar, es una carga y un centro de costos para la mayoría de las empresas.
+As technology advances the probability of being exposed and the cost of exposure are increasing, therefore the cost of keeping secrets is growing exponentially. For many things, the cost of keeping a secret is becoming more expensive than simply making it public from the start. Personal-identifying information, which governments require them to keep, is a liability and cost center for most companies.
 
-Nuestro desafío es que sobrestimamos nuestra capacidad de proteger nuestra privacidad/secretos mientras que subestimamos a aquellos que buscan descubrir nuestros secretos y el costo asociado a que nuestros secretos sean revelados.
+Our challenge is that we overestimate our ability to protect our privacy/secrets while underestimating those who seek to discover our secrets and the cost of having our secrets revealed.
 
-### La Paradoja de la Privacidad
+### Paradox of Privacy
 
-Si inventásemos una tecnología que fuera capaz de mantener todas nuestras transacciones financieras privadas, que mantuviera nuestras identidades secretas de todos, y que pudiera obligar a toda la internet a destruir/olvidar todo lo que sabe de nosotros entonces habremos alcanzado el nirvana de los ciberpunks. Si todos en el mundo pudieran adoptar una tecnología como esta algunas personas piensan que seríamos libres.
+If we invented a technology that was able to keep all of our financial transactions private, that would keep our identities secret from everyone, and that could compel the entire internet to destroy/forget everything they know about us then we will have reached cypherpunk nirvana. If everyone in the world would adopt such a technology then some people believe we would be free.
 
-Esta libertad llegaría a un precio, el de darle el poder a malos actores de robar, extorsionar y pedir rescates. Permitiría a malos actores escapar de su registro criminal y continuar estafando a otros. Disminuiría los niveles comunes de confianza en cualquier transacción comercial e incrementaría el costo de la debida diligencia. Forzaría a cada uno de nosotros a encontrar caminos para esquivar la privacidad de los otros para asegurar nuestros propios intereses. En otras palabras, esta tecnología de privacidad reforzaría la necesidad del status quo. Le daría más poder a aquellos que tuvieran las mejores redes de espionaje o aquellos que más se benefician de la privacidad \(criminales\) y le restarían poder a todos los demás.
+This freedom would come at the price of empowering bad actors to steal, extort, and hold people ransom. It would enable bad actors to escape from their criminal record and continue to defraud others. It would decrease the default level of trust in every business transaction and increase the cost of due diligence. It would force each of us to find ways to circumvent the privacy of others in order to secure our own interests. In other words, this privacy technology would reinforce the need for the status quo. It would empower those with the best spy networks or who profit the most from privacy \(criminals\) and disempower everyone else.
 
-En este escenario, dependeríamos completamente del gobierno para que use sus mecanismos de vigilancia para buscar y capturar a los malos actores. Mientras tanto, gobiernos corruptos usarían esta tecnología para lavar dinero, aceptar coimas, y financiar operaciones clandestinas alrededor del mundo. La privacidad extrema maximiza nuestra dependencia de los gobiernos y elimina totalmente el potencial de la comunidad para auto-gobernarse.
+In this scenario we would be completely dependent upon government to use their surveillance to track down and capture bad actors. Meanwhile, corrupt governments would use this technology to launder money, accept bribes, and fund clandestine operations around the world. Extreme privacy maximizes our dependence on government and entirely eliminates the potential for community self governance.
 
-El secreto es el enemigo de la verdad y de la libertad y es la herramienta para la opresión.
+Secrecy is the enemy of truth and freedom and the tool of oppression.
 
-### Gobierno Transparente
+### Transparent Government
 
-Una comunidad auto-gobernada y transparente es la solución para igualar el juego entre todos. A través de la transparencia una luz brillante ilumina las malas acciones realizadas tanto por criminales públicos como privados. Si cada cuenta en la blockchain \(cadena de bloques\) estuviera atada a una identidad pública, con una reputación garantizada, y una red social de relaciones que aseguren esas cuentas, entonces y solo entonces eliminaríamos el robo de criptomonedas por parte de criminales anónimos y la necesidad de una intervención del gobierno.
+Transparent community self-governance is the solution to leveling the playing field for all. Through transparency a bright light is shone on the bad actions carried out by public and private criminals alike. If every account on the blockchain was tied to a public identity, with bonded reputation, and a social network of relationships which secure the accounts then and only then will we end the theft of crypto-currency by private criminals and the need for government intervention.
 
-Imagina por un momento que un gobierno asalta tu casa y tiene acceso a tus claves privadas \(o te envía a prisión hasta que las reveles\). Una billetera física \(hardware wallet\) desbloqueada por una llave de $5 nunca será tan segura como una red social global diseñada para proteger tus derechos.
+Imagine for a moment that the government raids your house and gets access to your private keys \(or throws you in prison until you reveal them\). A hardware wallet unlocked by $5 wrench will never be as secure as a global social network designed to protect your rights.
 
-Un mal actor no tendría lugar para transferir tu dinero porque sería sujeto a la presión social de la transparencia y a los tribunales descentralizados. El robo de fondos, ya sea por extorsión o por hackeo estaría casi totalmente bloqueado.
+A bad actor would have nowhere to transfer your money because they would also be subject to transparent social pressure and the decentralized courts. The theft of funds by either extortion or hacking would be almost entirely blocked.
 
-No superamos el crimen organizado construyendo defensas individuales más fuertes, solo podemos superarlo a través de defensas sociales más fuertes. No podemos eliminar la necesidad de un gobierno supervisando mientras continuamos ocultando la mayor cantidad de información posible el uno del otro. El crimen organizado pierde todo el poder cuando las masas se apoyan unas a otras e ignoran activamente todas las demandas que violan sus derechos humanos y su dignidad. Eliminar el crimen organizado es solo posible en una comunidad que practica una extrema transparencia y es completamente imposible en una comunidad que practica un extremo secreto.
+We do not overcome organized crime by building stronger individual defenses, we can only overcome organized crime by building stronger social defenses. We cannot eliminate the need for government policing while continuing to hide as much information from each other as possible. Organized crime loses all power when the masses support one another and actively ignore demands that violate their human rights and dignity. Eliminating organized crime is only possible with a community that practices extreme transparency and is completely impossible with a community that practices extreme secrecy.
 
-### La Autoridad Moral
+![Nonviolence and truth are inseparable and presuppose one another - Mahatma Gandhi.](https://steemitimages.com/DQmUtsobFbgG55sAzRvYQUv4yHBquChH5zxJXj6gdzxftw3/image.png)
 
-| ![](https://steemitimages.com/DQmUtsobFbgG55sAzRvYQUv4yHBquChH5zxJXj6gdzxftw3/image.png)_La no violencia y la verdad son inseparables y presuponen una a la otra - Mahatma Gandhi.La no violencia, \(y por lo tanto la verdad y la transparencia\), es la más grande fuerza a disposición de la humanidad. Es más poderosa que la más poderosa de las armas de destrucción imaginadas por el ingenio del hombre - Gandhi_ | La transparencia es el fundamento necesario para asegurar la autoridad moral. En la ausencia de transparencia los gobiernos usan su control sobre la información para ocultar la realidad y calumniar a quien sea necesario para justificar sus acciones. Es solo a través del secreto y las mentiras que los gobiernos pueden mantener la ilusión de autoridad moral.Adoptar un plan de transparencia radical provoca tanto miedo como una revolución no-violenta contra una tiranía. Personas que no han hecho nada malo pueden resultar heridas y algunas pueden morir. Como dijo Gandhi, la no violencia requiere una cierta fe en la bondad humana, pero ocurre lo mismo con los gobiernos o la anarquía. Aquellos que no tienen fe en los hombres están locos al otorgar a gobiernos manejados por hombres el poder moral del uso de la violencia.Aquellos que resultan heridos serán los mártires que exponen la brutalidad del gobierno y aglomeran a las masas tras el inocente mientras socavan la autoridad de gobiernos violentos. Cuando la comunidad viene en ayuda de aquellos que resultaron heridos, entonces y solo entonces es cuando los gobiernos pierden su poder. Esto es solo posible con transparencia. |
-| --- |
+Non-violence, \(and therefore truth and transparency\), is the greatest force at the disposal of mankind. It is mightier than the mightiest weapon of destruction devised by the ingenuity of man - Gandhi
 
+### Moral High Ground
 
-### La Revolución de la Blockchain
+Transparency is the foundation necessary to secure the moral high ground. Absent transparency, governments use their control over information to obscure reality and slander whoever is necessary in order to justify their actions. It is only through secrecy and lies that governments can maintain the illusion of the moral high ground.
 
-Las blockchains \(cadenas de bloques\) públicas son un ejercicio de transparencia y libertad de expresión. Su fundamento es un registro completamente público y transparente de todas las transacciones financieras. A través de este fundamento de transparencia, una comunidad global y descentralizada ha creado, de la nada, una moneda y un sistema de valor que está liberando a la humanidad del control de capitales y de las incontables imprentas de la maquinaria de guerra motorizados por el [dinero fiat](https://es.wikipedia.org/wiki/Dinero_fiat) \(fiat money\).
+Adopting a plan of radical transparency is as scary as committing to a non-violent revolution against tyranny. People who have done nothing wrong will get hurt and some may die. As Gandhi said, nonviolence requires a certain faith in the goodness of man, but so does faith in government or anarchy. Those who have no faith in man are insane to imbue government run by men with moral authority over the use of violence.
 
-Si podemos eliminar de manera exitosa las imprentas, entonces terminaremos con las guerras más grandes. Ninguna nación democrática puede cobrarle impuestos a sus ciudadanos y al mismo tiempo mantener el apoyo popular para una guerra de agresiones sin la impresión monetaria.
+Those who get hurt will be the martyrs who expose government brutality and rally the masses behind the innocent while undermining the perceived authority of violent governments. When the community comes to the aid of those who are hurt, then, and only then, will governments lose their power. This is only possible with transparency.
 
-Lo que hemos hecho con el dinero también tenemos que hacerlo con la Identidad, la Resolución de Disputas, y el Seguro Social. Es a través de mayor transparencia que descentralizaremos su poder e incrementaremos las oportunidades de paz y prosperidad.
+### The Blockchain Revolution
 
-Los gobiernos están comenzando a atacar a las criptomonedas sobre la base de Conozca a Su Cliente \(Know Your Customer\) y leyes Anti-Lavado de dinero. Con estas leyes están creando las barreras de ingreso y restableciendo la asimetría de la información que es la base de su poder. La comunidad de criptomonedas ha demostrado que no puede supervisarse a si misma o frenar los robos, extorsión o coimas. Es nuestra inhabilidad de supervisarnos a nosotros mismos lo que los gobiernos del mundo están usando para justificar su autoridad moral e incrementar regulaciones agresivas que podrían potencialmente terminar prohibiendo las criptos.
+Public blockchains are an exercise in transparency and freedom of speech. Their very foundation is a completely transparent public record of all financial transactions. Through this foundation of transparency a decentralized global community has bootstrapped a currency and value system which is freeing mankind from the capital controls and unaccountable printing presses of the war machines powered by fiat money.
 
-En vez de mantenernos unidos, estamos permitiendo que los gobiernos del mundo ataquen a individuos. La mayoría de nuestras soluciones tecnológicas están focalizadas en permitir ocultarnos de los gobiernos en vez de ayudar a aquellos que no pueden hacerlo.  
-Hay un dicho que dice que puedes correr, pero no te puedes ocultar. Este dicho es mas verdadero que nunca cuando nos referimos a gobiernos.
+If we can successfully take away the printing press, then we will end major wars. No democratic nation can simultaneously tax its citizens and maintain public support for a war of aggression without the printing press.
 
-No podemos poner al genio de la era de la información de vuelta en su botella sin dejar de lado la magia de la sociedad moderna. Nuestra mejor defensa es ir a la ofensiva e introducir una transparencia mutua y voluntaria tan radical que ni siquiera el crimen organizado se pueda ocultar.
+What we have done with money we must also do with Identity, Dispute Resolution, and Social Insurance. It is through more transparency that we will decentralize their power and increase the opportunity for peace and prosperity.
 
-El futuro de la governancia se encuentra en una blockchain transparente.
+Governments are beginning to attack cryptocurrency on the basis of Know Your Customer and Anti-Money Laundering laws. With these laws they are setting up barriers to entry and re-establishing the information asymmetry which underwrites their power. The cryptocurrency community has demonstrated that it is unable to police itself or stop theft, extortion, and bribery. It is our inability to police ourself that the governments of the world are using to take the moral high ground and justify increasingly aggressive regulation that could potentially ban crypto.
 
-### Dan Larimer \([@dantheman](https://steemit.com/@dantheman)\)
+Rather than stand together, we are allowing the governments of the world to attack individuals. Most of our technological solutions are focused on enabling us to hide from government rather than helping those who are unable to hide. There is a saying that you can run, but you cannot hide. That statement is more true than ever when it comes to government.
 
-Traducción del texto original de Dan Larimer en este link:  
-[https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
+We cannot put the genie of the information age back in the bottle without giving up the magic of modern society. Our best defense is to go on the offense and introduce voluntary mutual transparency so radical that even organized crime cannot hide.
+
+The future of governance is on a transparent blockchain.
 

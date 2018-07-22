@@ -1,104 +1,98 @@
-# ¿Por qué luchamos para cambiar el mundo?
+# Why do we fight to change the world?
 
 {% hint style="info" %}
-Fuente y agradecimiento: [https://steemit.com/eos/@dr-waldo/por-que-luchamos-para-cambiar-el-mundo-traduccion-al-espanol-del-articulo-de-dan-larimer](https://steemit.com/eos/@dr-waldo/por-que-luchamos-para-cambiar-el-mundo-traduccion-al-espanol-del-articulo-de-dan-larimer)
+Source and acknowledgement: [https://steemit.com/eos/@dr-waldo/por-que-luchamos-para-cambiar-el-mundo-traduccion-al-espanol-del-articulo-de-dan-larimer](https://steemit.com/eos/@dr-waldo/por-que-luchamos-para-cambiar-el-mundo-traduccion-al-espanol-del-articulo-de-dan-larimer)
 {% endhint %}
 
 ![](https://steemitimages.com/0x0/http://i.huffpost.com/gen/1604707/images/o-ECKHART-TOLLE-OWN-SSS-STRESS-facebook.jpg)
 
-¿Con qué objetivo trabajamos y porqué importa? ¿Cómo llegamos hasta ahí?  
-¿Tenemos que dejar al costado hoy nuestra comodidad en la búsqueda de una utopia elusiva que esperamos obtener? Estas son preguntas que necesitan ser respondidas y entendidas a un nivel profundo si queremos cambiar el mundo. ¿Cambiar el mundo hará que nuestras vidas sean mejores? ¿No sería más fácil ganar la mayor cantidad de dinero posible, tener la mayor diversión posible y tomar el camino más simple? ¿Porqué preocuparnos con algo que nos traerá un dolor innecesario y sufrir sabiendo que tenemos poca posibilidad de tener una recompensa?
+What are we working toward and why does it matter? How do we get there? Should we give up comforts today in pursuit of an illusive utopia that we hope to bring about? These are the questions that need to be answered and understood at a deep level if we actually want to change the world. Will changing the world actually make our life better? Wouldn’t it simply be easier to just make as much money as we can, have as much fun as possible, and take the easiest road? Why bother with anything that could bring unnecessary pain and suffering with little probability of reward?
 
-### Mi Misión en la Vida
+### My Mission in Life
 
-Por mucho tiempo he sostenido que mi misión en la vida es la de encontrar soluciones de mercado gratuitas con el objeto de asegurar el derechos a la vida, a la libertad y a la propiedad. Esta misión esta enraizada profundamente en la creencia que la violencia no es necesaria para vivir en una sociedad organizada y que todos estaríamos mejor si esto pudiera ser alcanzado. Esta es una creencia que elegí porque no hay evidencias suficientes para probar que la violencia es necesaria.
+I have long held that my mission is to find free market solutions for securing life, liberty, and property. This mission is deeply rooted in the belief that initiation of violence is not necessary to live in a well ordered society and that everyone’s life would be better off if it could be achieved. This is a belief I choose because there is insufficient evidence to prove violence is necessary.
 
-Muchos detractores proclaman que soluciones no violentas no son posibles, pero sus argumentos fracasan finalmente debido a una falacia conocida como "argumento ad ignorantiam" \(como no puedo probar lo contrario, es verdad\). En efecto, proclaman que por no haber ninguna solución no violenta conocida \(que ellos creen que puede funcionar\) esta es imposible. Ellos han decidido dejar de buscar y/o trabajar hacia una solución no violenta. En otras palabras, ellos eligieron creer que la violencia es necesaria. En ambos casos, las creencias de un individuo le dan forma a su realidad y en ambos casos es un tema de fe.
+Many detractors claim non-violence solutions are not possible, but their arguments ultimately fail due to [a fallacy known as argument from ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance). In effect, they claim that because there is no known non-violent solutions \(that they believe will work\) that it is impossible. They decide to stop looking and/or working toward non-violent solutions. In other words, they choose to believe violence is necessary. In both cases, an individual’s belief shapes their reality and in both cases it is an article of faith.
 
-Mi misión es una misión peligrosa. Si soy exitoso tendré enemigos en los lugares de más poder y violencia. Mi propia vida está en riesgo en el momento en el que descubra una solución que puede ser percibida como una amenaza real.
+My mission is a dangerous mission. If I am successful I will make enemies in the highest places of violent power. My very life is at risk the moment I discover any solution that is perceived as a real threat.
 
-Cambiar el mundo es una misión más grande que cualquier persona. Requiere construir una nueva estructura social que conecte a toda la sociedad de una manera no violenta. Requiere persuadir a una minoría lo suficientemente grande como para organizar de manera efectiva y sin violencia una resistencia a la violencia de los gobiernos. En pocas palabras, requiere convencer a personas de asumir parte de los riesgos que yo estoy tomando.
+Changing the world is a mission that is bigger than any one person. It requires building a new social structure that binds all of society together in a non-violent way. It requires persuading a sufficiently large minority to organize an effective non-violent resistance to government violence. In short, it requires convincing people to take on some of the same risks I face.
 
-Si soy existoso en convencer a otros de tomar estos riesgos, entonces tendré que encarar mis propios demonios y conquistar mis propios miedos. Tengo que encontrar la manera de articular un argumento que sea lo suficientemente poderoso para atraer a millones de personas a formar parte de un movimiento. Sería deshonesto si dijera que no tengo conflictos internos con estos temas. Estos mismos conflictos internos son la razón por la cual me siento para organizar mis pensamientos en este artículo.
+If I am to be successful in convincing others to take these risks, then I must face my own demons and conquer my own fears. I must find and articulate an argument that is powerful enough to bring millions of people into a movement. I would be dishonest if I said I don’t struggle with these things. It is because of my own internal struggles that I sat down to organize my thoughts in this article.
 
-### Costos Privados y Beneficios Sociales
+### Privatized Costs and Socialized Benefits
 
-El problema principal con todos los movimientos de resistencia es la tragedia de los comunes. Todos queremos vivir nuestra vida libres, vivir en paz y nadie quiere ir a la prisión o morir a manos de un gobierno. Los costos a nivel del individuo son inmediatos y potencialmente infinitos, pero los beneficios que recibe, si es que recibe alguno, son para grupos de extraños desagradecidos en un futuro lejano, si es que alguna vez estos beneficios se logran.
+The core problem with absolutely every resistance movement is a tragedy of the commons. We all want to be free to live our lives in peace and no one wants to face jail time or death by government. The costs to the individual are immediate and potentially infinite, but the benefits they receive, if any, accrue to the masses of ungrateful strangers way in the future, if ever.
 
-Esta realidad económica significa que la mayoría de los movimientos de resistencia no consiguen seguidores hasta que los seguidores no tienen nada que perder. En otras palabras, hasta que el costo de participar cae por debajo del beneficio percibido \(casi 0\). En algún momento la gente está dispuesta a morir y en ese momento están dispuestos a correr riesgos extremos con poca posibilidad de retribución.
+This economic reality means that most resistance movements do not gather supporters until the supporters have _nothing left to lose_. In other words, until the cost of participation falls below the perceived benefit \(almost 0\). At some point people are willing to die and at this point they are willing to take extreme risks with low probability of payout.
 
-La esclavitud económica y política de la humanidad continuará hasta que Atlas no sea capaz de cargar el mundo en sus hombros y el mundo entero sufra un colapso económico. Es en la profundidad de este colapso en la que la gente no tenga nada que perder en la que la posibilidad de un cambio real es posible.
+The economic and political enslavement of mankind will continue until Atlas is unable to carry the world on his shoulders and the whole world suffers an economic collapse. It is from the depth of this collapse that people have nothing left to lose and real change is possible.
 
-![](https://steemitimages.com/0x0/https://s-media-cache-ak0.pinimg.com/736x/0a/41/a4/0a41a43f5243ce2fdb7b643679bdeda7.jpg)
+![](https://steemitimages.com/0x0/https://s-media-cache-ak0.pinimg.com/736x/0a/41/a4/0a41a43f5243ce2fdb7b643679bdeda7.jpg)   
+  
+The Bank of Evil - Despicable Me
 
-_El Banco del Mal - Mi Villano Favorito_
+### Do we accept reality or resist it?
 
-### ¿Aceptamos la realidad o nos resistimos a ella?
+Those who practice meditation or follow Eckhart Tolle know that all suffering is something we put ourselves through by resisting the world as it is now, this very moment.
 
-Aquellos que practican meditación o son seguidores de Echkart Tolle saben que todo sufrimiento es algo en lo que nos metemos cuando nos resistimos a aceptar el mundo actual, en este mismo momento.
+> “Suffering begins when you mentally label a situation as bad. That causes an emotional contraction. When you let it be, without naming it, enormous power is available to you. The contraction cuts you off from that power, the power of life itself.” ~ Eckhart Tolle
 
-> "El sufrimiento comienza cuando mentalmente etiquetamos una situación como mala. Eso causa una confrontación emocional. Cuando dejas que sea, sin nombrarla, un poder enorme pasa a estar disponible para ti. La contracción te quita ese poder, el poder de la vida misma." ~ Eckhart Tolle
+From this perspective paying taxes, complying with regulations, and otherwise accepting our status as slaves makes the most sense. There is no point in getting _angry_ or _frustrated_ at the status quo. Our anger and frustration will only serve to further lower our enjoyment of life and have no impact at all on the quality of life of our slave masters.
 
-Desde esta perspectiva pagar impuestos, cumplir con regulaciones, y de otra manera aceptar nuestro estado como esclavos tiene mucho sentido. No tiene sentido enojarse o frustrarse con el status quo. Nuestro enojo y frustración solamente servirán para reducir aún más nuestro disfrute de la vida y no tendrá impacto alguno en la calidad de vida de los esclavizadores.
+> “If you are in the habit of creating suffering for yourself, you are probably creating suffering for others too.” ~ Eckhart Tolle
 
-> "Si tienes el hábito de crear sufrimiento para ti mismo, probablemente estés creando sufrimiento para otros también." ~ Eckhart Tolle
+When we approach life with a resistance to what is we are tempted to respond out of anger, frustration, and hate. Our actions in turn result in the suffering of others. Their suffering in turn causes more anger, frustration, and the circle of violence continues. The powers that be divide us by causing conflicts and manipulating our emotional responses.
 
-Cuando encaramos la vida con una resistencia a lo que es, nos sentimos tentados a responder con enojo, frustración y odio. Nuestras acciones a su vez resultan en sufrimiento para otros. Su sufrimiento causa mayor enojo, frustración, y el círculo de violencia continúa. El poder nos divide causando conflictos y manipulando nuestras respuestas emocionales.
+Why should we label violence as bad and non-violence as good? Aren’t these very labels the source of our suffering? And if we remove these labels, what meaning is there in creating a non-violent society? Why should we suffer to bring it about?
 
-¿Porqué etiquetamos a la violencia como mala y a la no violencia como buena? ¿No son estas mismas etiquetas el origen de nuestro sufrimiento? ¿Y si removemos estas etiquetas, cuál es el significado de crear una sociedad no violenta? ¿Porqué debemos sufrir para llevarla a la realidad?
+### Non-violence isn’t a Technique it is a result of Accepting Reality
 
-### La No Violencia no es un Técnica, es el resultado de Aceptar la Realidad
+What is the purpose of violence? Why do we use it? Violence is a response \(resistance\) to what is. It is a rejection of reality. Violence is the result of an inability to see the aliveness in others; an inability to feel connected with all of life.
 
-¿Cuál es el propósito de la violencia? ¿Para qué la utilizamos? La violencia es el resultado de nuestra inhabilidad de ver la vitalidad en otros; una inhabilidad de sentirnos conectados con toda la vida.
+> Prejudice of any kind implies that you are identified with the thinking mind. It means you don't see the other human being anymore, but only your own concept of that human being. To reduce the aliveness of another human being to a concept is already a form of violence.
 
-> Un prejuicio de cualquier tipo implica una identificación con la mente pensante. Esto significa que ya no estamos viendo al otro ser humano, solamente estamos viendo nuestro propio concepto de ese ser humano. Reducir la vitalidad de otro ser humano a un concepto ya es en si una forma de violencia.
+So without labeling violence as good or bad, we can see that its root cause is in lack of awareness. One cannot be connected with all of life and simultaneously advocate violence and destruction. If you have no internal resistance, then what basis is there for violence? Is initiation of violence not sufficient evidence of our own disconnect from our true nature, our own fear, and our own defense of ego?
 
-Entonces, sin etiquetar a la violencia como buena o mala, podemos ver que la raíz de su causa se encuentra en la falta de conciencia. Uno no puede estar conectado con toda la vida y simultáneamente abogar por la violencia y la destrucción. Si no existe una resistencia interna, entonces ¿cuál es la base para la violencia? Iniciar un acto violento ¿no es evidencia suficiente de nuestra propia desconexión de nuestra propia naturaleza, nuestro propio miedo, y nuestra propia defensa del ego?
+In what situation can someone simultaneously claim they are at peace in the present moment and feel that initiating violence is _necessary_? What motive is there for violence that is not rooted in an attachment to outcomes? How much more do we suffer from our resistance and attachment than we do from whatever it is we think violence will solve?
 
-¿En qué situación puede alguien decir que se encuentra en paz en el momento presente al mismo tiempo que siente que un acto de violencia es necesario? ¿Qué motivo hay para la violencia que no este originado a un apego al resultado? ¿Cuánto más sufrimos desde nuestra resistencia y apego que lo que sea que pensamos que la violencia va a resolver?
+### When you find true freedom, you have nothing left to lose.
 
-### Cuando se encuentra la verdadera libertad, no se tiene más nada que perder.
+Once you master _living in the moment_ then all of your self-inflicted emotional suffering ends. There is no more anger and no more attachment to things or outcomes. With this you also free yourself from manipulation by the powers that be.
 
-Una vez que se domina el "vivir en el momento", entonces todos los sufrimientos autoinfligidos desaparecen. No hay mas enojo, ni apego a las cosas o a los resultados. Con esto también nos liberamos de la manipulación del poder.
+> “True freedom is living as if you had completely chosen whatever you feel or experience in this moment. This inner alignment with the Now is the end of suffering.” ~ Eckhart Tolle
 
-> "La verdadera libertad es vivir como si hubieras elegido todo lo que sientes o vives en este momento. Este alineamiento interno con el Ahora es el fin del sufrimiento." ~ Eckhart Tolle
+This state of being creates a paradox for those with aims to change the world. If you are at complete peace with the way things are, then what motive is there to change the world? On what basis should you choose to act? This is the very heart of economics, the study of human action. This is the root of my current internal conflict.
 
-Este estado del ser crea una paradoja para aquellos que apuntan a cambiar el mundo. Si estás en paz con las cosas tal y como son, entonces que te motiva a querer cambiar el mundo? Sobre que bases deberías elegir actuar? Este es el mismo corazón de la economía, el estudio de la acción humana. Este es el origen de mi actual conflicto interno.
+### Is Economic Thinking a Fallacy for Awakened Individuals?
 
-### ¿Es el Pensamiento Económico una Falacia para Individuos que han Despertado a la Realidad?
+If we view man as a purely economic creature we assume all actions are in someway tied to profit seeking activities. We assume that profit is the motive force. It might be fair to say that most of economics is based upon the assumption of an unenlightened individual stuck in a capitalist rat race.
 
-Si vemos a los hombres como una criatura puramente económica, asumimos que todas sus acciones están relacionadas de alguna manera con actividades en búsqueda de una ganancia. Asumimos que la ganancia es la fuerza motivadora. Podría ser válido decir que la mayoría de la teoría económica se basa en asumir la existencia de individuos no iluminados presos en una carrera capitalista.
+All of economic calculation boils down to risk / reward or profit and loss. It is our desire for profit and our fear of loss that drive us to make the best decisions we can. An enlightened individual has no fear of loss nor need for more. Their actions are therefore much harder to predict and most economic models cannot fully account for them.
 
-Toda la teoría económica se reduce a riesgo/beneficio o ganancia y pérdida. Es nuestro deseo de beneficio y nuestro miedo a la pérdida el que nos guía para tomar las mejores decisiones que podamos. Un individuo iluminado no tiene miedo a la pérdida o necesidad de más. Sus acciones son, en consecuencia, mucho más difíciles de predecir y la mayoría de los modelos económicos no las toman en cuenta.
+> In awakened doing there is complete internal alignment with the present moment and whatever you are doing right now. The doing is then not primarily a means to an end, but an opening for consciousness to come into this world.
 
-> Al realizar acciones iluminadas hay un completo alineamiento con el momento presente y lo que sea que se esté haciendo en este momento. La acción no es entonces en primera instancia un medio para un fin, sino la apertura para que esa conciencia llegue al mundo.
+### Basis for Acting
 
-### Bases para la Acción
+If we are not motivated by desire for profits or fear of loss, then how should we decide what actions to take each moment? Eckhart suggests that everything should be done from acceptance \(fixing a flat tire in the rain\), enjoyment, or enthusiasm \(creating something\).
 
-Si no estamos motivados por el deseo de ganancias o el miedo a las pérdidas, ¿cómo decidimos qué acciones tomar a cada instante? Eckhart sugiere que todo debe ser realizado desde la aceptación \(arreglar una cubierta pinchada en la lluvia\), disfrute, o entusiasmo \(crear algo\).
+> You have a goal. You know where you are going. The goal has its importance. But the doing is what is truly fulfilling. Every enthusiastic person has a goal that may be important, but the doing is intensely fulfilling, and it is the essence of enthusiasm. ~ Eckhart Tolle
 
-> Tú tienes un objetivo. Tú sabes hacia donde estas yendo. El objetivo tiene su importancia. Pero el camino \(el hacer\) es lo que realmente nos realiza. Toda persona entusiasta tiene un objetivo que puede ser importante, pero el camino es intensamente realizador, y es la esencia del entusiasmo. ~ Eckhart Tolle
+### The Means is Everything - The End doesn’t Matter
 
-### Los Medios son Todo - El Fin no Importa
+All of a sudden we learn something profound. If our goal is a non-violent voluntarist society, then there is no point in using violence _now_. This moment is all there is and in this moment we can choose to use violence or not use violence. If your aim is to bring non-violence into the world, then it must be done by non violent means.
 
-De repente aprendemos algo profundo. Si nuestro objetivo es una sociedad voluntarista y no violenta, entonces no tiene sentido utilizar la violencia _ahora_. Este momento es todo lo que hay y es el momento en el que podemos elegir usar o no la violencia. Si tu objetivo es traer la no violencia al mundo, entonces tiene que ser hecho por medios no violentos.
+### What I learned writing this Article
 
-### ¿Qué fue lo que aprendí escribiendo este Artículo?
+When I sat down to write this article I didn’t know what my conclusion would be. I just knew there was an internal, and unresolved conflict within. Now that I am 1700 words into it, I have rediscovered and reconnected with the motivation behind my mission.
 
-Cuando me senté a escribir este artículo no sabía cuál sería mi conclusión. Sólo sabía que tenía un conflicto interno no resuelto dentro mío. Ahora, luego de 1700 palabras, he redescubierto y reconectado con la motivación detrás de mi misión.
+Each day I act to bring about a non-violent solutions to world governance because I enjoy the creative problem solving process. I do not act out of resistance to the existing government, but in full acceptance of it. I do not act in fear of the existing government, but with rational self preservation as part of the creation process.
 
-Cada día actúo para traer soluciones no violentas al gobierno del mundo porque disfruto del proceso creativo de la solución de problemas. No actúo por resistencia al gobierno actual, pero aceptándolo completamente. No actúo con miedo del gobierno actual, sino con la racionalidad de la propia supervivencia como parte del proceso creativo.
+The accumulation of wealth, power, influence are tools, but I must not allow my identity to get caught up in it. The trappings of this world are just that, traps. The moment we are afraid to lose our trappings we become trapped in our own delusional ego.
 
-La acumulación de riqueza, poder, influencia, son herramientas, pero no tengo que permitir que mi identidad sea presa de eso. Las trampas de este mundo son tan sólo eso, trampas. En el momento que somos temerosos de perder nuestras trampas, quedamos atrapados por nuestro propio y delirante ego.
+I have learned that each action I take is more powerful if done in the moment, without resistance, and with full acceptance. I have also learned that for my vision to become a reality, I will need to help awaken others to the present moment.
 
-He aprendido que cada acción que tomo es más poderosa si se hace en el momento, sin resistencia, y con total aceptación. También he aprendido que para que mi visión se haga realidad, necesitaré ayudar a otros a que despierten al momento presente.
+Any economic system of voluntary rules and incentives I create will struggle to gain traction unless it is used and operated by enlightened individuals. Steem can be an incredibly powerful tool in the hands of aware individuals living in the moment, but it will utterly fail if it is overcome by unaware individuals trapped in their own ego.
 
-Cualquier sistema económico de reglas e incentivos voluntarios que pueda crear, va a tener dificultades para ganar tracción a menos que sea operada por individuos iluminados. Steem puede ser una herramienta increíblemente poderosa en la mano de individuos viviendo el momento, pero puede fallar absolutamente si es tomada por individuos que no han despertado, que se encuentran atrapados en su propio ego.
-
-Celos, avaricia, envidia, malicia, rencor y venganza destruirán cualquier comunidad. Individuos iluminados viviendo el momento sin resistencia a lo que _es_ ahora mismo, no experimentan ninguna de estas emociones. Voy a mantener esto en mi mente a medida que trabajamos para construir y hacer crecer Steem.
-
-### Dan Larimer \([@dantheman](https://steemit.com/@dantheman)\)
-
-Traducción del texto original de Dan Larimer en este link:  
-[https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world)
+Jealously, greed, envy, malice, spitefulness, and vengeance will destroy any community. Enlightened individuals living in the moment without any resistance to what _is_ right now experience none of these things. I will keep this in mind as we work to build and grow Steem.
 
