@@ -30,23 +30,23 @@ Una buena experiencia de usuario requiere una respuesta confiable con una demora
 
 Con bloques producidos por debajo de un segundo, EOSIO minimiza la latencia de las transacciones y mejora drásticamente la experiencia de usuario en las aplicaciones que corren sobre ella.
 
-## Sequential Performance
+## Performance Sequencial
 
-There are some applications that just cannot be implemented with parallel algorithms due to sequentially dependent steps. Applications such as exchanges need enough sequential performance to handle high volumes.
+Algunas aplicaciones no pueden ser implementadas con algoritmos paralelos por la naturaleza secuencial de pasos dependientes. Aplicaciones tales como exchanges necesitan suficiente performance secuencial para manejar altos volúmenes.
 
-EOSIO is built to support fast sequential performance meeting the requirements of high-performance applications.
+EOSIO está contruido para soportar una veloz performance secuencial satisfaciendo los requerimientos de aplicaciones de alta performance.
 
-## Human-readable account name
+## Nombes de Cuenta de Fácil Lectura
 
-The EOSIO software permits all accounts to be referenced by a unique human-readable name of up to 12 characters in length. The name is chosen by the creator of the account.
+El software de EOSIO permite que todas las cuentas sean referenciadas por una cuenta única de fácil lectura de hasta 12 caracteres de longitud. El nombre es elegido por el creador de la cuenta.
 
-## Constitution
+## Constitución
 
-The EOSIO software enables blockchains to establish peer-to-peer terms of service agreement or a binding contract among those users who sign it, referred to as a "constitution". The content of this constitution defines obligations among the users which cannot be entirely enforced by code and facilitates dispute resolution by establishing jurisdiction and choice of law along with other mutually accepted rules. Every transaction broadcast on the network must incorporate the hash of the constitution as part of the signature and thereby explicitly binds the signer to the contract.
+El software de EOSIO permite a las cadenas de bloques establecer un acuerdo de términos de servicio entre pares o contratos entre aquellos usuarios que firman la "constitución". El contenido de esta constitución define obligaciones entre los usuarios que no pueden ser completamente aplicadas a través de código y facilita la resolución de disputas establenciendo una jurisdicción y la elección de las leyes junto con otras reglas aceptadas mutuamente. Cada transacción transmitida a la red debe incorporar el hash de la constitución como parte de la firma y de esa manera explícitamente obligan al firmante a cumplir con el contrato.
 
-The constitution also defines the human-readable intent of the source code protocol. This intent is used to identify the difference between a bug and a feature when errors occur and guide the community on what fixes are proper or improper.
+La constitución también define la declaración de la intención del código fuente en un formato de texto legible. Esta documentación de la intención es usada para diferenciar entre un error y una funcionalidad cuando un error ocurre y sirven como guía para que la comunidad sepa que correcciones son correctas o incorrectas.
 
-## Inter Blockchain Communication
+## Comunicación Entre Cadenas de Bloques
 
-EOS.IO software is designed to facilitate inter-blockchain communication. This is achieved by making it easy to generate proof of Action existence and proof of Action sequence. These proofs combined with an application architecture designed around Action passing enables the details of inter-blockchain communication and proof validation to be hidden from application developers, enabling high level abstractions to be presented to developers.
+El software de EOS.IO está diseñado para facilitar la comunicación entre cadenas de bloques. Esto es logrado haciendo que sea simple generar una prueba de la existencia de una Acción y de la pruaba de una la secuencia de Acciones. Estas pruebas combinadas con una arquitectura de aplicación diseñada alrededor del pasaje de Acciones permite que los detalles de la comunicación entre cadenas de bloques y pruebas de validación se encuentran ocultas para los desarrolladores de aplicaciones, permitiendo presentar a los desarrolladores un alto nivel de abstracción.
 
