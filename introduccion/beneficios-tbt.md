@@ -1,4 +1,4 @@
-# Beneficios \[TBT\]
+# Beneficios
 
 ## Soporte para Millones de Usuarios
 
@@ -26,9 +26,9 @@ Cuando todo lo demás falla y una "aplicación imparable" actúa de una forma in
 
 ## Baja Latencia
 
-Una buena experiencia de usuario requiere una respuesta confiable con una demora de no más que unos segundos.  A good user experience demands reliable feedback with a delay of no more than a few seconds. Longer delays frustrate users and make applications built on a blockchain less competitive with existing non-blockchain alternatives. The platform should support low latency of transactions.
+Una buena experiencia de usuario requiere una respuesta confiable con una demora de no más que unos segundos. Demoras prolongadas frustan a los usuarios y hacen que las aplicaciones construidas sobre cadenas de bloques sean menos competitivas que las alternativas existentes que no corren sobre cadenas de bloques. La plataforma debe soportar transacciones con baja latencia.
 
-With sub-second blocks production, EOSIO minimizes the latency of the transactions and drastically improves the users' experience of the applications built on top of it.
+Con bloques producidos por debajo de un segundo, EOSIO minimiza la latencia de las transacciones y mejora drásticamente la experiencia de usuario en las aplicaciones que corren sobre ella.
 
 ## Sequential Performance
 
