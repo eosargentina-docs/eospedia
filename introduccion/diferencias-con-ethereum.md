@@ -1,28 +1,12 @@
 # Diferencias con Ethereum \[TBT\]
 
-### Contenido
-
-Capítulo 1: Qué es un contrato inteligente?
-
-Capítulo 2: Filosofía de diseño
-
-Capítulo 3: Mecanismo de consenso y gobernanza
-
-Capítulo 4: Escalabilidad
-
-Capítulo 5: Ataques de denegación de servicio
-
-Capítulo 6: Economía de la red: cobro de tazas vs. poseer una participación
-
-
-
-### Capítulo 1: Qué es un contrato inteligente?
-
-Para aquellos que son muy nuevos para las ideas de criptografia e la tecnología de cadena de bloques, primero es importante entender exactamente que es una cadena de bloques. Esencialmente, una cadena de bloques es un sistema descentralizado, en el centro del cual hay un libro público. Um razão é, basicamente, uma maneira de explicar o estado atual do sistema \(por exemplo, quanto criptografia é realizada em cada conta\). Junto com o livro público, a tecnologia blockchain inclui um mecanismo de consenso que determina como o computador descentralizado \(ou seja, a rede de computadores que executam a cadeia de blocos\) atualiza o estado atual do livro público.
+{% hint style="info" %}
+Traducción del artículo: [https://steemit.com/eos/@trogdor/eos-vs-ethereum-for-dummies](https://steemit.com/eos/@trogdor/eos-vs-ethereum-for-dummies)
+{% endhint %}
 
 ## Introducción
 
-No mucho tiempo después del lanzamiento de Bitcoin, individuos comprendieron y comenzaron a reconocer que la tecnología detrás 
+No mucho tiempo después del lanzamiento de Bitcoin, individuos comprendieron y comenzaron a reconocer que la tecnología detrás de Bitcoin tenía un mayor potencial que ser simplemente una nueva tecnología monetaria. De hecho, algunos años después 
 
   
 Not long after the launch of Bitcoin, savvy individuals began to recognize that the technology behind Bitcoin has vastly greater potential than simply as the basis for a new electronic currency. In fact, within just a few years of Bitcoin's development, dozens of new decentralized applications have been built upon the same type of public ledger blockchain technology behind Bitcoin. Just a few of these decentralized applications include encrypted messaging \(Bitmessage\), decentralized exchanges \(Bitshares\), trustless gambling/betting \(Peerplays\), cloud computing \(Golem\), and of course social media \(Steem/Steemit\). One challenge for innovators and app developers in this new blockchain economy is the difficulty of actually building a new blockchain application from scratch. On top of that, with traditional Proof-of-Work \(POW\) and Proof-of-Stake consensus mechanisms, the security of the network and application depends on a large amount of hashing power and/or a large distribution of network tokens. For small business owners and startups, these challenges make the barrier to entry impractically high. There is no way a small startup company can independently fund a widely distributed, powerful computer network to secure their application.
@@ -35,16 +19,18 @@ Recently, Dan Larimer \(inventor of Bitshares, Graphene, and Steem/Steemit\), al
 
 In this post I will describe some of the differences in technological capabilities and limitations, as well as differences in design philosophies between the EOS and Ethereum platforms.
 
-## What's contained in this post?
+## Contenidos
 
-* Chapter 1: What is a smart contract?
-* Chapter 2: Design philosophy
-* Chapter 3: Consensus mechanism and governance
-* Chapter 4: Scalability
-* Chapter 5: Denial-of-service attacks
-* Chapter 6: Economics of the networks: burning fees vs. owning a stake
+* Capítulo 1: Qué es un contrato inteligente?
+* Capítulo 2: Filosofía de diseño
+* Capítulo 3: Mecanismo de consenso y gobernanza
+* Capítulo 4: Escalabilidad
+* Capítulo 5: Ataques de denegación de servicio
+* Capítulo 6: Economía de la red: cobro de tazas vs. poseer una participación
 
-## Chapter 1: What is a smart contract?
+
+
+### Capítulo 1: Qué es un contrato inteligente?
 
   
 For those who are very new to the ideas of cryptocurrencies and blockchain technology, it is first of all most important to understand exactly what a blockchain is. Essentially, a blockchain is a decentralized system, at the heart of which is a public ledger. A ledger is basically a way to account for the current state of the system \(e.g. how much cryptocurrency is held in each account\). Along with the public ledger, blockchain technology includes a consensus mechanism which dictates how the decentralized computer \(i.e. the network of computers running the blockchain\) updates the current state of the public ledger.
@@ -55,7 +41,7 @@ Smart contracts can facilitate the transfer and exchange of money or property in
 
 Smart contracts also define all of the obligations and potential penalties involved in an agreement, much like traditional contracts do, but the smart contract platform also automatically enforces all of these obligations and penalties. These smart contract platforms essentially allow the development of decentralized applications to run on the network. Ethereum is currently by far the largest and most successful platform for decentralized applications, but the new platform EOS will seek to solve several of the challenges faced by the Ethereum network.
 
-## Chapter 2: Design philosophy
+### Chapter 2: Design philosophy
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/DQmfQC3Q7NvUxKxwdj93nNZgFJnsAYQMxtCA9cbf88KRTjX/Slide1.PNG)
 
@@ -63,7 +49,7 @@ One of the key differences between EOS and the Ethereum network is in the design
 
 In contrast to this approach, EOS recognizes that many different applications require the same types of functionalities and seeks to provide those functions, such as implementations of the cryptography and app/blockchain communication tools needed by many applications. With this philosophy, EOS will feature the introduction of generalized role-based permissions, a web toolkit for interface development, self-describing interfaces, self-describing database schemes, and a declarative permission scheme. It is my understanding that these functionalities, provided by EOS, will be especially powerful for simplifying user account generation and management, as well as security issues like declarative permissions and account recovery.
 
-## Chapter 3: Consensus mechanism and governance
+### Chapter 3: Consensus mechanism and governance
 
 ![](https://steemitimages.com/DQmV8BJqXQXVqLAM7VqR6hWt8HdgUY1vzPGG2XGqQWoZ7oT/Slide2.PNG)
 
@@ -73,7 +59,7 @@ One issue with the current Proof-of-Work implementation behind the Ethereum netw
 
 In contrast, EOS includes a mechanism to freeze and fix broken or frozen applications. For example, if the DAO had been implemented on EOS, it could have been frozen, fixed, and updated without disrupting the other EOS applications. Furthermore, the DPOS consensus mechanism of EOS has no potential for spawning multiple competing chains during a hard fork. This is evidenced by the 18 successful hard forks experienced by the Steem network, which also runs on Graphene technology. Furthermore, EOS will include a legally binding constitution that establishes a common jurisdiction for dispute resolution, and it will also include self-funded community benefit applications that will be selected by stake-weighted voting.
 
-## Chapter 4: Scalability
+### Chapter 4: Scalability
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/DQmdrre6WZJLychsHpCsQWo7Uf2sYLrzMGM3E3wbMgc5KAK/Slide3.PNG)
 
@@ -81,7 +67,7 @@ In order to consider a platform as commercially viable, scalability is of utmost
 
 However, in terms of scalability, EOS will have two significant advantages over the Ethereum network, and once implemented, EOS will likely be on the only platform that can handle truly commercial-scale decentralized applications. First, EOS will rely on Graphene technology, which has been shown in stress tests to achieve 10,000-100,000 transactions per second. Secondly, EOS will use parallelization to scale the network, likely up to millions of transactions per second. If these benchmarks are realized, EOS should be able to support thousands of commercial scale DAPPs. EOS will use asynchronous communications and separate authentication from execution to achieve speedups, and because it will have no transaction fees, EOS also does not require counting operations.
 
-## Chapter 5: Denial-of-service attacks
+### Chapter 5: Denial-of-service attacks
 
 ![](https://steemitimages.com/DQmSxgwQmHMcUUATQy4rsARReptRTJ2jxYiZbjFFFe8azpB/Slide4.PNG)
 
@@ -91,7 +77,7 @@ In the Ethereum network, it is well-known that miners preferentially select high
 
 In contrast, EOS should not be vulnerable to DOS attacks. The ownership of EOS tokens gives users a proportional stake in the network bandwidth, storage, and computing power. Therefore, spammers can only consume the proportion of the network that their EOS tokens entitle them too. DOS attacks may be possible on a given application, depending on the apps design, but those attacks can never disrupt the entire network. Startups with a very small stake invested in the network will have guaranteed, reliable bandwidth and computational power, even if many other malicious actors try to spam several large network apps.
 
-## Chapter 6: Economics of the networks: burning fees vs. owning a stake
+### Chapter 6: Economics of the networks: burning fees vs. owning a stake
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/DQmSRV6uCBVr9XfS6CyVgkag9TWntUNDu1cUCNDg1WWGThf/Slide5.PNG)
 

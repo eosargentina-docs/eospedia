@@ -13,7 +13,6 @@
     * [Filosofía](historia/dan-larimer/filosofia/README.md)
       * [¿Por qué luchamos para cambiar el mundo?](historia/dan-larimer/filosofia/por-que-luchamos-para-cambiar-el-mundo.md)
       * [¿La Libertar Requiere una Transparencia Radical o una Privacidad Radical?](historia/dan-larimer/filosofia/la-libertar-requiere-una-transparencia-radical-o-una-privacidad-radical.md)
-  * [Precursoras](historia/precursoras.md)
   * [Block.one](historia/block.one.md)
 * [Componentes](componentes/README.md)
   * [Cadena de Bloques](componentes/cadena-de-bloques.md)
