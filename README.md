@@ -4,9 +4,7 @@
 
 ![](.gitbook/assets/eospedia.io-1%20%281%29.png)
 
-{% hint style="info" %}
-Go to [**ENGLISH VERSION of EOSPEDIA.IO**](https://www.eospedia.io/v/en)\*\*\*\*
-{% endhint %}
+Go to [**ENGLISH VERSION**](https://www.eospedia.io/v/en)\*\*\*\*
 
 ### ¿Quiénes mantienen este repositorio?
 
