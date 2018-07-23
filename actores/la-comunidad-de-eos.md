@@ -1,4 +1,4 @@
-# La Comunidad de EOS
+# EOS Community
 
 
 

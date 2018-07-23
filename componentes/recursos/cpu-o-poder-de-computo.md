@@ -1,4 +1,4 @@
-# CPU \(o Poder de Cómputo\)
+# CPU
 
 
 

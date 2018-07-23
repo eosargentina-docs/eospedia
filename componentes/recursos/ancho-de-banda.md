@@ -1,4 +1,4 @@
-# Ancho de Banda
+# Bandwidth
 
 
 

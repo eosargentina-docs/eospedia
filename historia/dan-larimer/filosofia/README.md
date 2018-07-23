@@ -1,4 +1,4 @@
-# Filosofía
+# Philosophy
 
 Estos son algunos artículos que reflejan la parte de la filosofía de Dan Larimer.
 

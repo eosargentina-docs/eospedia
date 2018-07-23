@@ -1,4 +1,4 @@
-# Tokens de EOS
+# EOS Tokens
 
 
 
