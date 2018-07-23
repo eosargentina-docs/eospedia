@@ -1,7 +1,3 @@
----
-description: El creador de EOSIO
----
-
 # Dan Larimer
 
 {% hint style="warning" %}
