@@ -1,50 +1,50 @@
 # Network Overview \[TBT\]
 
-## Description
+## Descripción
 
-The EOS.IO network is comprised of a decentralized consensus algorithm \(DPoS\), a network resource management system, a governance process and a set of incentives for those using the network.
+La red de EOS.IO esta compuesta de un algoritmo de consenso descentralizado \(DPoS\), un sistema de administración de los recursos de la red, un proceso de gobernanza y un conjunto de incentivos para aquellos que usan la red.
 
-## Delegated Proof-Of-Stake
+## Prueba de Participación Delegada
 
-[Delegated Proof of Stake \(DPOS\)](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) empowers tokens holders to select block producers through a continuous approval voting system. Anyone may choose to participate in block production and will be given an opportunity to produce blocks, provided they can persuade token holders to vote for them.
+La [Prueba de Participación Delegada \(DPOS\)](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) le dan el poder a los tenedores de tokens para seleccionar a los productores de bloques a través de un sistema de votación continuo. Cualquiera puede elegir participar en la producción de bloques y les será otorgada la posibilidad de producir bloques, si persuaden a los tenedores de tokens de votar por ellos.
 
-A holder of tokens on the EOS.IO blockchain, who may not have an immediate need to consume all or part of the available bandwidth the tokens provide, can delegate or rent such unconsumed bandwidth to others.
+Un tenedor de tokens en la cadena de bloques de EOS.IO, puede no tener la necesidad inmediata the consumir parte o todo el ancho de banda que esos tokens proporcionan, puede delegar o rentar ese ancho de banda no consumido a otros.
 
-## Proposals
+## Propuestas
 
-In addition to electing block producers, token holders can elect a number of Worker Proposals designed to benefit the community. The winning proposals will receive tokens of up to a configured percent of the token inflation minus those tokens that have been paid to block producers.
+Además de elegir productores de bloques, los tenedores de tokens pueden elegir un número de Propuestas de Trabajo creadas para beneficiar a la comunidad. Las propuestas ganadoras recibirán tokens hasta un porcentaje configurado de la inflación de tokens menos aquellos tokens que hayan sido pagados a los productores de bloques.
 
-## Incentive
+## Incentivo
 
-The EOS.IO blockchain will award new tokens to a block producer every time a block is produced. A cap on producer awards can be set such that the total annual increase in token supply does not exceed 5%.
+La cadena de bloques de EOS.IO premiará con nuevos tokens a los productores de bloques cada vez que un bloque es producido. Un límite a los premios otorgados a los productores puede ser configurado de manera tal que el incremento anual total de la oferta de tokens no exceda el 5%.
 
 ## Staking
 
-### Resources
+### Recursos
 
-On the EOS.IO blockchain, there are three broad classes of resources that are consumed by applications:
+En la cadena de bloques de EOS.IO, hay tres amplias clases de recursos que son consumidas por las aplicaciones:
 
-* Bandwidth and Log Storage \(Disk\);
-* Computation and Computational Backlog \(CPU\); and
-* State Storage \(RAM\).
+* Ancho de Banda and Almacenamiento de Registros \(Disco\);
+* Poder de Cómputo y Cómputos Pendientes \(CPU\); y
+* Almacenamiento del Estado \(RAM\).
 
-### Consumption
+### Consumo
 
-The EOS.IO software allows each account to consume a percentage of the available capacity proportional to the amount of tokens held in a 3-day staking contract. For example, if an account on the EOS.IO blockchain holds 1% of the total tokens distributable pursuant to that blockchain, then that account has the potential to utilize 1% of the state storage capacity.
+El software de EOS.IO permite a cada cuenta consumir un porcentaje de la capacidad disponible proporcional a la cantidad de tokens que se encuentran en un contrato que bloquea los tokens por 3 días.  Por ejemplo, si una cuenta en la cadena de bloques de EOS.IO posee el 1% del total de tokens distribuibles en esa cadena de bloques, entonces tiene el potencial de utilizar el 1% de la capacidad de almacenamiento del estado.
 
-While bandwidth and computation can be delegated, storage of application state will require an application developer to hold tokens, or stake them, until that state is deleted. If state is never deleted, then the tokens are effectively removed from circulation.
+Mientras que el ancho de banda y el poder de cómputo puede ser delegado, el almacenamiento del estado de la aplicación requerirá que el desarrollador de la aplicación posea tokens, o dejarlos reservados, hasta que el estado sea borrado. Si el estado nunca es borrado, entonces esos tokens se encuentran efectivamente fuera de circulación.
 
-## Governance
+## Gobernanza
 
-The EOS.IO blockchain governance process recognizes that power originates with the token holders who then delegate that power to the block producers. The governance process efficiently directs the existing influence of block producers to line up to the interests of the token holders.
+El proceso de gobernanza de la cadena de bloques de EOS.IO reconoce que el poder se origina en los poseedores de tokens que delegan el poder a los productores de bloques. El proceso de gobernanza dirige eficientemente la influencia existente de los productores de bloques para que se alínie con los intereses de los tenedores de tokens.
 
-### Abilities
+### Capacidades
 
-Block producers are given limited and checked authority to freeze accounts, update defective applications, and propose hard forking changes to the underlying protocol. Before any change can be made to the blockchain the block producers must approve it. If the block producers refuse to make changes desired by the token holders then they can be voted out.
+Los Productores de Bloques tienen una autoridad limitada y controlada para congelar cuentas, actualizar aplicaciones defectuosas, y proponer cambios al protocolo que pueden dividir la cadena de bloques. Antes que cualquier cambio pueda realizarse a la cadena de bloques, los productores deben aprobarlo. Si el productor de bloques se niega a realizar los cambios deseados por los tenedores de tokens entonces pueden estos pueden quitarle el voto.
 
-### Constitution
+### Constitución
 
-The EOS.IO blockchain will establish a peer-to-peer terms of service agreement or a binding contract among those users who sign it, referred to as a "constitution". The content of this constitution defines obligations among the users which cannot be entirely enforced by code and facilitates dispute resolution by establishing jurisdiction and choice of law along with other mutually accepted rules. Every transaction broadcast on the network must incorporate the hash of the constitution as part of the signature and thereby explicitly binds the signer to the contract.
+La cadena de bloques de EOS.IO establece un establish a peer-to-peer terms of service agreement or a binding contract among those users who sign it, referred to as a "constitution". The content of this constitution defines obligations among the users which cannot be entirely enforced by code and facilitates dispute resolution by establishing jurisdiction and choice of law along with other mutually accepted rules. Every transaction broadcast on the network must incorporate the hash of the constitution as part of the signature and thereby explicitly binds the signer to the contract.
 
 ### Arbitration
 
