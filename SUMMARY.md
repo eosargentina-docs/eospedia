@@ -4,7 +4,7 @@
 * [Introducción](introduccion/README.md)
   * [Introducción a EOS](introduccion/untitled.md)
   * [Beneficios](introduccion/beneficios-tbt.md)
-  * [Network Overview \[TBT\]](introduccion/network-overview-tbt.md)
+  * [Visión General de la Red](introduccion/network-overview-tbt.md)
   * [EOS.IO - Whitepaper](introduccion/eos.io-whitepaper.md)
   * [Diferencias con Ethereum \[TBT\]](introduccion/diferencias-con-ethereum.md)
 * [El Ecosistema de EOS](el-ecosistema-de-eos.md)

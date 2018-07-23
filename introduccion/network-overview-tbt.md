@@ -1,4 +1,4 @@
-# Network Overview \[TBT\]
+# Visión General de la Red
 
 ## Descripción
 
@@ -44,9 +44,9 @@ Los Productores de Bloques tienen una autoridad limitada y controlada para conge
 
 ### Constitución
 
-La cadena de bloques de EOS.IO establece un establish a peer-to-peer terms of service agreement or a binding contract among those users who sign it, referred to as a "constitution". The content of this constitution defines obligations among the users which cannot be entirely enforced by code and facilitates dispute resolution by establishing jurisdiction and choice of law along with other mutually accepted rules. Every transaction broadcast on the network must incorporate the hash of the constitution as part of the signature and thereby explicitly binds the signer to the contract.
+El software de EOSIO permite a las cadenas de bloques establecer un acuerdo de términos de servicio entre pares o contratos entre aquellos usuarios que firman la "constitución". El contenido de esta constitución define obligaciones entre los usuarios que no pueden ser completamente aplicadas a través de código y facilita la resolución de disputas estableciendo una jurisdicción y la elección de las leyes junto con otras reglas aceptadas mutuamente. Cada transacción transmitida a la red debe incorporar el hash de la constitución como parte de la firma y de esa manera explícitamente obligan al firmante a cumplir con el contrato.
 
-### Arbitration
+### Arbitraje
 
-The EOS.IO blockchain constitution will state that all users agree to settle disputes by arbitration.
+La constitución de la cadena de bloques de EOS.IO blockchain establece que todos los usuarios acuerdan resolver las disputas a través de un sistema de arbitraje.
 
