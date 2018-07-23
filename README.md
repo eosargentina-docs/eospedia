@@ -2,6 +2,12 @@
 
 ![](.gitbook/assets/eospedia.io-1%20%281%29.png)
 
+
+
+# Go to [English Version of Eospedia.io](v/en/)
+
+
+
 ## ¿Quiénes mantienen este repositorio?
 
 Este proyecto es una iniciativa del Productor de Bloques EOS Argentina con el objetivo de generar un espacio de contenidos en español para la comunidad.  Esperamos que distintas comunidades  globales de habla hispana se sumen a esta iniciativa para poder generar contenidos confiables y actualizados.
