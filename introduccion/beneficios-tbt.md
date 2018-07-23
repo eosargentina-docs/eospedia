@@ -2,7 +2,7 @@
 
 ## Soporte para Millones de Usuarios
 
-Competir con negocios como eBay, Uber, AirBnB, y Facebook, requiere una tecnología de cadena de bloques capaz de manejar diariamente decenas de millones de usuarios activos. En ciertos casos, una aplicación puede no tener utilidad a menos que alcance una masa critica de usuarios y por lo tanto, una plataforma que pueda manejar una gran cantidad de usuarios es requerida.
+Competir con negocios como eBay, Uber, AirBnB, y Facebook, requiere una tecnología de cadena de bloques capaz de manejar diariamente decenas de millones de usuarios activos. En ciertos casos, una aplicación puede no tener utilidad a menos que alcance una masa crítica de usuarios y por lo tanto, una plataforma que pueda manejar una gran cantidad de usuarios es requerida.
 
 A través de la escala horizontal, EOSIO habilitará una red capaz de soportar millones de usuarios en aplicaciones de alta performance.
 
@@ -30,23 +30,23 @@ Una buena experiencia de usuario requiere una respuesta confiable con una demora
 
 Con bloques producidos por debajo de un segundo, EOSIO minimiza la latencia de las transacciones y mejora drásticamente la experiencia de usuario en las aplicaciones que corren sobre ella.
 
-## Performance Sequencial
+## Performance Secuencial
 
-Algunas aplicaciones no pueden ser implementadas con algoritmos paralelos por la naturaleza secuencial de pasos dependientes. Aplicaciones tales como exchanges necesitan suficiente performance secuencial para manejar altos volúmenes.
+Algunas aplicaciones no pueden ser implementadas con algoritmos paralelos por la naturaleza secuencial de sus pasos dependientes. Aplicaciones tales como exchanges necesitan suficiente performance secuencial para manejar altos volúmenes.
 
-EOSIO está contruido para soportar una veloz performance secuencial satisfaciendo los requerimientos de aplicaciones de alta performance.
+EOSIO está construido para soportar una veloz performance secuencial satisfaciendo los requerimientos de aplicaciones de alta performance.
 
-## Nombes de Cuenta de Fácil Lectura
+## Nombres de Cuenta de Fácil Lectura
 
-El software de EOSIO permite que todas las cuentas sean referenciadas por una cuenta única de fácil lectura de hasta 12 caracteres de longitud. El nombre es elegido por el creador de la cuenta.
+El software de EOSIO permite que todas las cuentas sean referenciadas por un nombre único de fácil lectura de hasta 12 caracteres de longitud. El nombre es elegido por el creador de la cuenta.
 
 ## Constitución
 
-El software de EOSIO permite a las cadenas de bloques establecer un acuerdo de términos de servicio entre pares o contratos entre aquellos usuarios que firman la "constitución". El contenido de esta constitución define obligaciones entre los usuarios que no pueden ser completamente aplicadas a través de código y facilita la resolución de disputas establenciendo una jurisdicción y la elección de las leyes junto con otras reglas aceptadas mutuamente. Cada transacción transmitida a la red debe incorporar el hash de la constitución como parte de la firma y de esa manera explícitamente obligan al firmante a cumplir con el contrato.
+El software de EOSIO permite a las cadenas de bloques establecer un acuerdo de términos de servicio entre pares o contratos entre aquellos usuarios que firman la "constitución". El contenido de esta constitución define obligaciones entre los usuarios que no pueden ser completamente aplicadas a través de código y facilita la resolución de disputas estableciendo una jurisdicción y la elección de las leyes junto con otras reglas aceptadas mutuamente. Cada transacción transmitida a la red debe incorporar el hash de la constitución como parte de la firma y de esa manera explícitamente obligan al firmante a cumplir con el contrato.
 
 La constitución también define la declaración de la intención del código fuente en un formato de texto legible. Esta documentación de la intención es usada para diferenciar entre un error y una funcionalidad cuando un error ocurre y sirven como guía para que la comunidad sepa que correcciones son correctas o incorrectas.
 
 ## Comunicación Entre Cadenas de Bloques
 
-El software de EOS.IO está diseñado para facilitar la comunicación entre cadenas de bloques. Esto es logrado haciendo que sea simple generar una prueba de la existencia de una Acción y de la pruaba de una la secuencia de Acciones. Estas pruebas combinadas con una arquitectura de aplicación diseñada alrededor del pasaje de Acciones permite que los detalles de la comunicación entre cadenas de bloques y pruebas de validación se encuentran ocultas para los desarrolladores de aplicaciones, permitiendo presentar a los desarrolladores un alto nivel de abstracción.
+El software de EOS.IO está diseñado para facilitar la comunicación entre cadenas de bloques. Esto es logrado haciendo que sea simple generar una prueba de la existencia de una Acción y de la prueba de una secuencia de Acciones. Estas pruebas combinadas con una arquitectura de aplicación diseñada alrededor del pasaje de Acciones permite que los detalles de la comunicación entre cadenas de bloques y pruebas de validación se encuentren ocultas para los desarrolladores de aplicaciones, permitiendo presentar a los desarrolladores un alto nivel de abstracción.
 
