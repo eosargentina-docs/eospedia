@@ -1,7 +1,5 @@
 # Bievenidos a EOSPEDIA.IO
 
-## Bievenidos a EOSPEDIA.IO
-
 ![](.gitbook/assets/eospedia.io-1%20%281%29.png)
 
 Go to [**ENGLISH VERSION**](https://www.eospedia.io/v/en)\*\*\*\*
@@ -12,7 +10,7 @@ Este proyecto es una iniciativa del Productor de Bloques EOS Argentina con el ob
 
 Los contenidos de este repositorio se encuentran bajo licencia de código abierto y puede ser usados y distribuidos libremente.
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### ¿Cómo puedo contribuir?
 

@@ -30,7 +30,7 @@ Bitcoin estableció la prueba de trabajo \(proof of work\) o la firma Nakamoto c
 
 Muchos han encontrado ofensivos el concepto de un libro mayor totalmente compartido y el costo de la prueba de trabajo que este sistema conlleva \(el costo del proof-of-work para Bitcoin es de 4% y para Ethereum es de 11% al momento que se escribió este artículo\). Se ha propuesto utilizar Libros Mayores con Permiso \(Permissioned Ledgers\) \(Swanson, 2015\) no solo para bloquear a aquellos que queremos excluir de los beneficios de nuestro libro mayor, sino también para que podamos regresar a las raíces de la ciencia de la computación: un consenso eficiente que operan mediante diseños prácticos pero centralizados, en otras palabras, diseños que ya son bastante conocidos en la ciencia del almacenamiento de datos. También se ha propuesto aplicar pruebas de participación \(POS, proof of stake\), criptografías exóticas y énclaves seguros. Corda \(Brown et al., 2016\) estableció que el consenso lo puede decidir el usuario en puntos seleccionados dentro de un contrato de transacciones. Esto se hace por medio de servidores llamados notarios que sirven como mediadores de consenso que utiliza cualquiera de los medios antes mencionados. La ventaja de que Corda permita que los notarios sean intercambiables es que han logrado reducir el costo operativo de su red a un nivel comparable al de la infraestructura típica de cualquier sistema operativo actual.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 **Valor.** De forma similar, a lo largo de los años ha existido una gran variedad de mecanismos para establecer un valor fungible como el dinero en efectivo, por ejemplo. Entre 1980 y 1990, el dinero de las tarjetas inteligentes usualmente funcionaba por medio de almacenamiento de datos internos en cada tarjeta, es decir, existía un sistema interno el cual negociaba transacciones atómicas de tarjetas duales. En la misma década, el eCash de David Chaum \(Chaum, 1983\) popularizó la idea de una moneda que consistía en un número al azar con una firma digital ciega que podía ser transferible de un usuario a otro. Más recientemente, la contabilidad de triple entrada propuesta por Grigg \(2005\) establece que cada parte puede ver el mismo recibo, cada uno del cual registra una transacción de persona a persona. Por lo tanto, el balance se calcula como la suma de recibos que entran y salen. 
 
@@ -100,7 +100,7 @@ Este inciso describe algunas diferencias arquitectónicas que el software de sop
 
 En la ciencia de la computación, las máquinas que determinan estados están construidas como máquinas de código, de estado \(memoria\) y de eventos, tanto entrantes como salientes. Cada vez que algo ocurre que cause un cambio, una máquina práctica guarda los intermediarios de la memoria y, al reiniciarse, la máquina recupera su memoria al interpretar dichos intermediarios. Cuando se construye una máquina de estado práctica, podemos decidir si almacenamos eventos o el estado, una decisión que depende principalmente en qué estamos tratando de optimizar. 
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 En la Figura 2, ¿debemos guardar los mensajes rojos o el estado azul? Una máquina que almacena el estado probablemente se use más en un contexto donde la prioridad es determinar el estado de un momento específico, por ejemplo, en las bases de datos. Una máquina que guarda mensajes probablemente sea más útil cuando sea más importante preguntarnos cómo llegamos al estado en el que estamos en este momento, por ejemplo en los protocolos o en los libros de registro con poder legal tales como contabilidad de triple entrada \(Grigg, 2005\). Aunque ambos procesos son útiles, estos difieren en lo siguiente: el reinicio de una máquina es más rápido si se guarda el estado; el proceso de enviar de un punto a otro es más rápido cuando se almacenan mensajes. 
 
@@ -114,7 +114,7 @@ Ya que la elección mediada por blockchain del segundo nivel del DPOS es sobre l
 
 En efecto, se escoge un grupo de Generales para una campaña y cada uno tiene un turno. Después de la campaña, la comunidad civil opina si se reemplaza o no a los Generales que no rindieron adecuadamente. 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 El DPOS evita el impuesto de minería, lo que implica que se libera un valor sustancial que  regresa a las partes interesadas del proyecto. El valor de los premios por la validación de mensajes y producción de bloques inicialmente sería captado enteramente por los productores. Sin embargo, puesto que estos son electos por la comunidad, tienen el incentivo de compartir los premios mediante un esquema que acuerden los productores entre ellos y que promueven ante la comunidad. 
 
@@ -124,7 +124,7 @@ De acuerdo a la Constitución, el premio a largo plazo por producir bloques se d
 
 Un usuario escribe un contrato como una construcción virtual de gestores de manejadores de mensajes. Un usuario puede convertir su cuenta en un agente contratante si incorpora manejadores de mensajes y si usa el almacenamiento de datos inherente en su cuenta para retener la posición interna de sus contratos. Varios manejadores de mensajes trabajando juntos pueden mediar un flujo de mensajes para poder llevar a cabo un contrato completo o un acuerdo legalmente confiable de principio a fin. 
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 Desde la perspectiva de un contrato, la llegada, aceptación y procesamiento de un mensaje implican una abstracción más sencilla que si se hiciera con un estado. Consideremos, por ejemplo, un libro de procesamiento de pedidos en un mercado de valores: el libro registra ofertas de compra y de venta. Cuando llega el momento adecuado, debe calcular un precio de punto de equilibrio, para luego emitir pedidos para ambos lados. 
 
@@ -144,7 +144,7 @@ Por lo tanto, tenemos que analizar de forma meticulosa las características que 
 
 Si tomáramos en consideración las necesidades de las partes, primero necesitaríamos combinar la prosa legal \(en texto sin formato\) y el lenguaje de codificación, e incluir algunos parámetros que nos permitieran “impulsar el acuerdo” y reutilizar la misma prosa y el mismo código para muchos contratos \(Grigg 2015\). Muchos esfuerzos de investigación han tratado de fusionar los dos elementos de la contratación inteligente — código y prosa legal—, ya sea como parámetros de orden superior o como un lenguaje legalmente expresivo de dominio específico \(Clack1 et al., 2016, ver su Figura 5\). Sin embargo, ninguno, hasta el momento, ha descubierto cómo hacerlo. Esta es un área de investigación abierta que ha resultado en varias posibilidades de diseños, pero ninguno ha sido aprobado en la comunidad \(Clack2 et al., 2016\).
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Siguiendo esta línea, nuestra primera tentación fue inclinarnos hacia lo que busca el desarrollador: un lenguaje interpretado de código fuente \(source-interpreting scripting language\) basado en Wren y adecuado para administrar el diseño de un manejador de mensajes contractuales. A continuación, un extracto del código \(Larimer 2017-1\): 
 
@@ -166,7 +166,7 @@ Sin embargo, WASM transfiere el reto de los operadores a las partes – ahora ha
 
 Por lo tanto, es razonable preguntar - ¿qué es o dónde está el contrato que las partes acordaron? Quisiera responder de manera frontal a esa pregunta. Durante las dos décadas, más o menos, en que he visto que se emiten contratos en la red —ya sea Ricardiano o de cualquier otro modelo— y las cientos de emisiones que han surgido de los mismos, aún no he visto una disputa, ni siquiera una confusión en la que lo que decía el contrato o lo que significaba era la clave del desacuerdo. Aún en el incidente de The DAO, —esa desafortunada lección de $150 millones sobre cómo no emitir un contrato— la causa probable del hack fue por cuestiones de seguridad. Aunque habían varias desacuerdos e interpretaciones con respecto al significado contractual del hack, la única respuesta para solventar el problema fue cambiar arbitrariamente lo que había que cambiar para recuperar el dinero. No hubo ni siquiera un mínimo intento para resolver la disputa sobre la interpretación de los hechos, el significado y los derechos. Todavía está abierta la pregunta sobre qué proporción de las disputas en las cortes se basa por interpretaciones ambiguas de significados o por confusiones, y qué porcentaje son simplemente juegos de poder e intimidación; pero no soy optimista.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 Ante El DAO y otras experiencias, sugiero que la regla de un único contrato \(Grigg 2004\) parece ser dogmática y exageradamente constrictiva. En lugar de eso, por lo menos para la parte no-regulada de las DLTs, hay oportunidad de liberar los componentes del contrato para lograr un mejor rendimiento, aún si se abre la pequeña posibilidad de una discordancia. Mientras tanto, debemos enfocarnos en la gobernanza y en lograr que la resolución de desacuerdos esté disponible y sea cómoda para las partes. 
 
@@ -218,7 +218,7 @@ Entonces, como los contratos pueden ser bilaterales, el flujo del negocio se pod
 
 Cuando están comprometidos como comunidad bajo una Constitución, los usuarios sabrán que los derechos, las responsabilidades contractuales y las obligaciones de sus contrapartes están por lo menos ajustadas a un estándar básico, como se expresa en una Constitución y como se hace valer en la resolución de conflictos. Adicionalmente, usar nombres confiables y trabajar en una red de confianza pueden reducir la anonimidad de la Internet y darle a la gente un sentido de pertenencia a algo importante. 
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 RECONOCIMIENTOS 
 
