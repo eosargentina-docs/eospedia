@@ -12,7 +12,7 @@ This project is an initiative of EOS Argentina Block Producer with the goal to g
 
 The contents of this repository are under the open source license, they can be used or distributed freely.
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ## How may I contribute?
 
