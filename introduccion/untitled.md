@@ -124,7 +124,7 @@ De acuerdo a la Constitución, el premio a largo plazo por producir bloques se d
 
 Un usuario escribe un contrato como una construcción virtual de gestores de manejadores de mensajes. Un usuario puede convertir su cuenta en un agente contratante si incorpora manejadores de mensajes y si usa el almacenamiento de datos inherente en su cuenta para retener la posición interna de sus contratos. Varios manejadores de mensajes trabajando juntos pueden mediar un flujo de mensajes para poder llevar a cabo un contrato completo o un acuerdo legalmente confiable de principio a fin. 
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 Desde la perspectiva de un contrato, la llegada, aceptación y procesamiento de un mensaje implican una abstracción más sencilla que si se hiciera con un estado. Consideremos, por ejemplo, un libro de procesamiento de pedidos en un mercado de valores: el libro registra ofertas de compra y de venta. Cuando llega el momento adecuado, debe calcular un precio de punto de equilibrio, para luego emitir pedidos para ambos lados. 
 
@@ -166,7 +166,7 @@ Sin embargo, WASM transfiere el reto de los operadores a las partes – ahora ha
 
 Por lo tanto, es razonable preguntar - ¿qué es o dónde está el contrato que las partes acordaron? Quisiera responder de manera frontal a esa pregunta. Durante las dos décadas, más o menos, en que he visto que se emiten contratos en la red —ya sea Ricardiano o de cualquier otro modelo— y las cientos de emisiones que han surgido de los mismos, aún no he visto una disputa, ni siquiera una confusión en la que lo que decía el contrato o lo que significaba era la clave del desacuerdo. Aún en el incidente de The DAO, —esa desafortunada lección de $150 millones sobre cómo no emitir un contrato— la causa probable del hack fue por cuestiones de seguridad. Aunque habían varias desacuerdos e interpretaciones con respecto al significado contractual del hack, la única respuesta para solventar el problema fue cambiar arbitrariamente lo que había que cambiar para recuperar el dinero. No hubo ni siquiera un mínimo intento para resolver la disputa sobre la interpretación de los hechos, el significado y los derechos. Todavía está abierta la pregunta sobre qué proporción de las disputas en las cortes se basa por interpretaciones ambiguas de significados o por confusiones, y qué porcentaje son simplemente juegos de poder e intimidación; pero no soy optimista.
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 Ante El DAO y otras experiencias, sugiero que la regla de un único contrato \(Grigg 2004\) parece ser dogmática y exageradamente constrictiva. En lugar de eso, por lo menos para la parte no-regulada de las DLTs, hay oportunidad de liberar los componentes del contrato para lograr un mejor rendimiento, aún si se abre la pequeña posibilidad de una discordancia. Mientras tanto, debemos enfocarnos en la gobernanza y en lograr que la resolución de desacuerdos esté disponible y sea cómoda para las partes. 
 
