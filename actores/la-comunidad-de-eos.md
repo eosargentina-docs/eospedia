@@ -1,4 +1,0 @@
-# La Comunidad de EOS
-
-
-

@@ -1,4 +1,0 @@
-# Venture Capital
-
-
-
